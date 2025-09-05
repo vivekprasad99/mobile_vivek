@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "message":"Request completed successfully",
+  "data": [
+    {
+      "id":"1",
+      "title":"Let your money work for you, Start your FD journey with us today",
+      "image":"https://myinvestmentideas.com/wp-content/uploads/2019/08/Mahindra-Finance-FD-Schemes-2019-Review.jpg"
+    },
+    {
+      "id": "2",
+      "title":"Let your money work for you, Start your FD journey with us today",
+      "image":"https://securityinvestments.in/web/image/2505-812bc250/WhatsApp%20Image%202022-02-15%20at%203.28.43%20PM.jpeg"
+    }
+  ]
+}

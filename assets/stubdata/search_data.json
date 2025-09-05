@@ -1,0 +1,804 @@
+{
+    "status": "SUCCESS",
+    "meta": {
+        "total": 2,
+        "query_params": {
+            "language": "en",
+            "category": "Search List"
+        }
+    },
+    "message": "Request completed successfully",
+    "data": [
+        {
+            "searchList": [
+                "Product features",
+                "features",
+                "Products",
+                "feature overview",
+                "product capabilities",
+                "product functionalities",
+                "features list",
+                "what it does",
+                "product benefits"
+            ],
+            "title": "Product features",
+            "screen_router": "home",
+            "search_list_category": "products",
+            "extra": 1,
+            "extraArguments": {
+                "intVal": "1"
+            },
+            "canPop": true,
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Product details",
+                "details",
+                "my loan details",
+                "loan details",
+                "loan",
+                "my product",
+                "my loan",
+                "view my loan",
+                "loan overview",
+                "loan information",
+                "loan specifics",
+                "loan summary",
+                "loan description",
+                "my loan info",
+                "loan data"
+            ],
+            "title": "Product Details",
+            "screen_router": "home",
+            "search_list_category": "products",
+            "extra": 1,
+            "extraArguments": {
+                "intVal": "1"
+            },
+            "canPop": true,
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "settings",
+                "preferences",
+                "app settings",
+                "configuration",
+                "app preferences",
+                "system settings",
+                "profile settings"
+            ],
+            "title": "Settings",
+            "screen_router": "settings",
+            "search_list_category": "products",
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Bill payments",
+                "Upcoming payments",
+                "recharge",
+                "auto pay",
+                "autopay",
+                "emi",
+                "mandate",
+                "payments",
+                "BBPS"
+            ],
+            "title": "Bill Payments",
+            "screen_router": "home",
+            "search_list_category": "products",
+            "extra": 2,
+            "extraArguments": {
+                "intVal": "2"
+            },
+            "canPop": true,
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Application status",
+                "status",
+                "check status",
+                "application progress",
+                "application tracking",
+                "status update",
+                "current status",
+                "application review"
+            ],
+            "title": "Application Status",
+            "screen_router": "applicationstatus",
+            "search_list_category": "products",
+            "is_user":true,
+            "extraArguments": {
+                "boolVal": true
+            }
+        },
+        {
+            "searchList": [
+                "faqs",
+                "faq",
+                "frequently asked questions",
+                "help",
+                "common questions",
+                "support",
+                "troubleshooting",
+                "assistance",
+                "customer support"
+            ],
+            "title": "FAQs",
+            "screen_router": "faq",
+            "search_list_category": "products",
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Product Item",
+                "Products",
+                "Items",
+                "product catalog",
+                "items list",
+                "available products",
+                "product lineup",
+                "product selection"
+            ],
+            "title": "Product Item",
+            "screen_router": "home",
+            "search_list_category": "products",
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Cancellation",
+                "cancel",
+                "cancel loan",
+                "terminate loan",
+                "end loan",
+                "loan closure",
+                "stop loan",
+                "loan termination",
+                "cancel my loan"
+            ],
+            "title": "Cancellation",
+            "screen_router": "loanCancelList",
+            "search_list_category": "products",
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "Privacy policy",
+                "data privacy",
+                "privacy statement",
+                "data protection",
+                "privacy terms",
+                "privacy agreement",
+                "user privacy"
+            ],
+            "title": "Privacy Policy",
+            "screen_router": "privacyPolicy",
+            "search_list_category": "products",
+            "extra": true,
+            "extraArguments": {
+                "boolVal": true
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "terms and conditions",
+                "terms",
+                "conditions",
+                "terms of service",
+                "service agreement",
+                "user terms",
+                "conditions of use",
+                "legal terms",
+                "user agreement"
+            ],
+            "title": "Terms & Conditions",
+            "screen_router": "termsConditions",
+            "search_list_category": "products",
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Loans",
+                "car loan",
+                "New car loan",
+                "New car loan rate",
+                "rate",
+                "loan rate",
+                "auto loan",
+                "car financing",
+                "new car finance",
+                "car loan rates",
+                "vehicle loan",
+                "buy new car"
+            ],
+            "title": "New Car",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "new_car"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "new_car"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Loans",
+                "personal loan",
+                "personal loan rate",
+                "rate",
+                "loan rate",
+                "personal financing",
+                "personal loan info",
+                "personal loan interest",
+                "loan for personal use",
+                "individual loan"
+            ],
+            "title": "Personal Loan",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "personal"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "personal"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "services",
+                "available services",
+                "service options",
+                "app services",
+                "offered services",
+                "service list"
+            ],
+            "title": "Services",
+            "search_list_category": "products",
+            "screen_router": "home",
+            "extra": 3,
+            "extraArguments": {
+                "intVal": "3"
+            },
+            "canPop": true,
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "foreclosure",
+                "close",
+                "loans",
+                "close loan",
+                "loan settlement",
+                "end loan early",
+                "pay off loan",
+                "loan foreclosure process",
+                "loan termination"
+            ],
+            "title": "Foreclosure",
+            "extra": false,
+            "extraArguments": {
+                "boolVal": false
+            },
+            "screen_router": "loansList",
+            "search_list_category": "products",
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "Loans",
+                "home loan",
+                "Home loan rate",
+                "rate",
+                "loan rate",
+                "mortgage",
+                "house loan",
+                "home financing",
+                "home loan rates",
+                "buy house loan",
+                "real estate loan"
+            ],
+            "title": "Home Loan",
+            "search_list_category": "products",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "home"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "home"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "auto",
+                "rickshaw",
+                "three wheeler",
+                "loan",
+                "rate",
+                "loan rate",
+                "auto loan",
+                "rickshaw loan",
+                "three wheeler finance",
+                "three wheeler loan rates",
+                "loan for three wheeler"
+            ],
+            "title": "Three Wheeler",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "three_wheeler"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "three_wheeler"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "used car loan",
+                "used car",
+                "car",
+                "loan",
+                "rate",
+                "loan rate",
+                "second hand car loan",
+                "pre-owned car finance",
+                "used car financing",
+                "loan for used car",
+                "car loan rates"
+            ],
+            "title": "Used Car",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "used_car"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "used_car"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "tractor loan",
+                "tractor",
+                "loan",
+                "rate",
+                "loan rate",
+                "farm equipment loan",
+                "agriculture loan",
+                "tractor financing",
+                "tractor loan rates",
+                "loan for tractor"
+            ],
+            "title": "Tractor",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "tractor"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "tractor"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "utility vehicle",
+                "vehicle",
+                "loan",
+                "rate",
+                "loan rate",
+                "SUV loan",
+                "utility vehicle finance",
+                "utility vehicle loan rates",
+                "loan for utility vehicle"
+            ],
+            "title": "Utility Vehicle",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "utility_vehicle"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "utility_vehicle"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Commercial Vehicle",
+                "vehicle",
+                "commercial",
+                "loan",
+                "rate",
+                "loan rate",
+                "business vehicle loan",
+                "commercial auto loan",
+                "commercial vehicle financing",
+                "loan for commercial vehicle"
+            ],
+            "title": "Commercial Vehicle",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "commercial_vehicle"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "commercial_vehicle"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Balance Transfer",
+                "balance",
+                "transfer",
+                "loan",
+                "rate",
+                "loan rate",
+                "loan transfer",
+                "balance shift",
+                "debt transfer",
+                "loan balance transfer",
+                "move loan balance",
+                "rate transfer"
+            ],
+            "title": "Balance Transfer",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "loans",
+                "product_sub_type": "balance_transfer"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "loans",
+                    "product_sub_type": "balance_transfer"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Fixed deposit",
+                "investment",
+                "fixed",
+                "fd",
+                "FD",
+                "fixed investment",
+                "term deposit",
+                "fixed deposit rates",
+                "fixed savings",
+                "investment deposit"
+            ],
+            "title": "Fixed Deposit",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "investment",
+                "product_sub_type": "fixed_deposit"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "investment",
+                    "product_sub_type": "fixed_deposit"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "insurance",
+                "Health",
+                "medical insurance",
+                "health cover",
+                "health policy",
+                "insurance for health",
+                "medical cover",
+                "health protection"
+            ],
+            "title": "Health Insurance",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "insurance",
+                "product_sub_type": "health"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "insurance",
+                    "product_sub_type": "health"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "insurance",
+                "Life",
+                "life cover",
+                "life policy",
+                "insurance for life",
+                "life protection",
+                "life insurance info",
+                "life assurance"
+            ],
+            "title": "Life Insurance",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "insurance",
+                "product_sub_type": "life"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "insurance",
+                    "product_sub_type": "life"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "insurance",
+                "Motor",
+                "vehicle",
+                "bike",
+                "car",
+                "vehicle insurance",
+                "car insurance",
+                "bike insurance",
+                "motor policy",
+                "vehicle cover",
+                "auto insurance"
+            ],
+            "title": "Motor Insurance",
+            "search_list_category": "products",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "insurance",
+                "product_sub_type": "motor"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "insurance",
+                    "product_sub_type": "motor"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "insurance",
+                "travel",
+                "trip insurance",
+                "travel cover",
+                "travel policy",
+                "insurance for travel",
+                "trip protection",
+                "journey insurance"
+            ],
+            "title": "Travel Insurance",
+            "screen_router": "productFeaturesOneTabContainerScreen",
+            "search_list_category": "products",
+            "extra": {
+                "isFromSearch": true,
+                "product_type": "insurance",
+                "product_sub_type": "travel"
+            },
+            "extraArguments": {
+                "productFeatureDetail": {
+                    "isFromSearch": true,
+                    "product_type": "insurance",
+                    "product_sub_type": "travel"
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "documents"
+            ],
+            "title": "Documents",
+            "screen_router": "selectDetailsPage",
+            "search_list_category": "services",
+            "extraArguments": {
+                "servicesNavigationRequest": {
+                    "cardName":"loan",
+                    "cardType":"Repayment schedule"
+                }
+            },
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "create mandate",
+                "mandate",
+                "autopay",
+                "setup autopay",
+                "payment mandate",
+                "autopay setup",
+                "direct debit",
+                "payment authorization",
+                "automatic payments",
+                "set up mandate"
+            ],
+            "title": "Mandate",
+            "screen_router": "selectDetailsPage",
+            "search_list_category": "services",
+            "extraArguments": {
+                "servicesNavigationRequest": {
+                    "cardName":"eMandates",
+                    "cardType":"Create"
+                }
+            },
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "noc",
+                "get noc"
+            ],
+            "title": "NOC",
+            "screen_router": "nocLoanList",
+            "search_list_category": "services",
+            "extraArguments": {
+                "stringVal":"View/ Track"
+            },
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "Apply for refund",
+                "refund",
+                "get refund"
+            ],
+            "title": "Refund",
+            "screen_router": "loanRefund",
+            "search_list_category": "services",
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "Bureau"
+            ],
+            "title": "Bureau",
+            "screen_router": "bureau",
+            "search_list_category": "services",
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "Charges",
+                "Dispute charges"
+            ],
+            "title": "Dispute charges",
+            "screen_router": "raiseRequest",
+            "search_list_category": "services",
+            "is_user":false
+        },
+        {
+            "searchList": [
+                "Update Mobile No",
+                "Update",
+                "Change"
+            ],
+            "title": "Update Mobile No",
+            "screen_router": "myProfileUpdateMobileNumber",
+            "search_list_category": "services",
+            "extraArguments":{
+                "servicesNavigationRequest":{
+                    "isFromSearch":true
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "Update profile",
+                "change number",
+                "update number",
+                "change emial",
+                "update email",
+                "Update",
+                "Change",
+                "Change photo",
+                "Update photo",
+                "photo"
+            ],
+            "title": "My Profile",
+            "screen_router": "myProfileData",
+            "search_list_category": "services",
+            "extraArguments":{
+                "servicesNavigationRequest":{
+                    "isFromSearch":true
+                }
+            },
+            "is_user":true
+        },
+        {
+            "searchList": [
+                "My Loans",
+                "Active loans",
+                "loans"
+            ],
+            "title": "Active loans",
+            "screen_router": "activeProductsLoanListPage",
+            "search_list_category": "services",
+            "extraArguments":{
+                "servicesNavigationRequest":{
+                    "isFromSearch":true
+                }
+            },
+            "is_user":false
+        }
+        
+    ]
+}

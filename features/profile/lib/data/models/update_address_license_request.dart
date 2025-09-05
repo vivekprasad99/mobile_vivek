@@ -1,0 +1,61 @@
+class UpdateAddressLicenseRequest {
+  String? ucic;
+  String? source;
+  String? superAppId;
+  String? consentFlag;
+  String? sameAsMainAddress;
+  String? postOfficeName;
+  String? addrType;
+  String? state;
+  String? city;
+  String? country;
+  String? pincode;
+  String? combinedAddress;
+
+  UpdateAddressLicenseRequest(
+      { this.ucic,
+    this.source,
+    this.superAppId,
+    this.consentFlag,
+    this.sameAsMainAddress,
+    this.postOfficeName,
+    this.addrType,
+    this.state,
+    this.city,
+    this.country,
+    this.pincode,
+    this.combinedAddress,});
+
+
+  UpdateAddressLicenseRequest.fromJson(Map<String, dynamic> json) {
+    ucic = json['ucic'];
+    source = json['source'];
+    superAppId = json['superAppId'];
+    consentFlag = json['consentFlag'];
+    sameAsMainAddress = json['sameAsMainAddress'];
+    postOfficeName = json['postOfficeName'];
+    addrType = json['addrType'];
+    state = json['docType'];
+    city = json['city'];
+    country = json['country'];
+    pincode = json['pinCode'];
+    combinedAddress = json['combinedAddress'];
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = <String, dynamic>{};
+     data['ucic'] = ucic;
+    data['source'] = source;
+    data['superAppId'] = superAppId;
+    data['consentFlag'] = consentFlag;
+    data['sameAsMainAddress'] = sameAsMainAddress;
+    data['postOfficeName'] = postOfficeName;
+    data['addrType'] = addrType;
+    data['state'] = state;
+    data['city'] = city;
+    data['country'] = country;
+    data['pinCode'] = pincode;
+    data['combinedAddress'] = combinedAddress;
+    return data;
+  }
+}

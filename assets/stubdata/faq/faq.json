@@ -1,0 +1,687 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Products",
+      "product_types": [
+        {
+          "id": "1",
+          "title": "Loans",
+          "sub_types": [
+            {
+              "id": "1",
+              "product_id": "1",
+              "title": "New Car",
+              "screen_title": "Car loan FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum dolor sit amet consectue. Quam auctor?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "2",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "3",
+                      "question": "What types of vehicles are financed by loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "4",
+                      "question": "How do i repay loan?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "KYC related question here KYC related question here ",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "2",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "3",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "4",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "5",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "6",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "7",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "product_id": "1",
+              "title": "Used Car",
+              "screen_title": "Used Car FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    },
+                    {
+                      "id": "2",
+                      "question": "What types of houses are financed by home loans?",
+                      "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href=\"https://www.mahindrafinance.com/\">Vulputate pharetra <a> nam sagittis nulla."
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "product_id": "1",
+              "title": "Three wheeler",
+              "screen_title": "Three wheeler FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "product_id": "1",
+              "title": "Tractor",
+              "screen_title": "Tractor FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Investment",
+          "sub_types": [
+            {
+              "id": "1",
+              "product_id": "1",
+              "title": "Investment1",
+              "screen_title": "Investment FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "product_id": "1",
+              "title": "Investment2",
+              "screen_title": "Used Car FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "product_id": "1",
+              "title": "Investment3",
+              "screen_title": "Investment 3 FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "product_id": "1",
+              "title": "Investment4",
+              "screen_title": "Investment 4 FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Insurance",
+          "sub_types": [
+            {
+              "id": "1",
+              "product_id": "1",
+              "title": "Insurance1",
+              "screen_title": "Car loan FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "product_id": "1",
+              "title": "Insurance 2",
+              "screen_title": "Insurance 2 FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Loan Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "product_id": "1",
+              "title": "Insurance 3",
+              "screen_title": "Insurance 3 FAQ's",
+              "image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+              "types": [
+                {
+                  "id": "1",
+                  "header": "KYC",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "header": "Foreclosure",
+                  "faq": [
+                    {
+                      "id": "1",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    },
+                    {
+                      "id": "2",
+                      "question": "Lorem ipsum",
+                      "answer": "Lorem ipsum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "General",
+      "general_types": [
+        {
+          "id": "1",
+          "header": "Most Common Questions",
+          "faq": [
+            {
+              "id": "1",
+              "question": "Lorem ipsum dolor sit amet consectue. Quam auctor?",
+              "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. <a href = \"\">Vulputate pharetra </a> nam sagittis nulla."
+            },
+            {
+              "id": "2",
+              "question": "What types of houses are financed by home loans?",
+              "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. Vulputate pharetra nam sagittis nulla"
+            },
+            {
+              "id": "3",
+              "question": "What types of vehicles are financed by loans?",
+              "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. Vulputate pharetra nam sagittis nulla"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "header": "App related",
+          "faq": [
+            {
+              "id": "1",
+              "question": "What types of vehicles are financed by loans?",
+              "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. Vulputate pharetra nam sagittis nulla"
+            },
+            {
+              "id": "2",
+              "question": "What types of vehicles are financed by loans?",
+              "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. Vulputate pharetra nam sagittis nulla"
+            },
+            {
+              "id": "3",
+              "question": "What types of vehicles are financed by loans?",
+              "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. Vulputate pharetra nam sagittis nulla"
+            },
+            {
+              "id": "4",
+              "question": "What types of vehicles are financed by loans?",
+              "answer": "Lorem ipsum dolor sit amet consectetur. Quam auctor ipsum elit imperdiet nisl. Vulputate pharetra nam sagittis nulla"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "How To",
+      "video_types": [
+        {
+          "id": "1",
+          "header": "Category 1",
+          "videos": [
+            {
+              "id": "1",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/vLWIlDvzgY0/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=vLWIlDvzgY0"
+            },
+            {
+              "id": "2",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/5zN7pmQ6vpc/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=5zN7pmQ6vpc"
+            },
+            {
+              "id": "3",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/vLWIlDvzgY0/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=vLWIlDvzgY0"
+            },
+            {
+              "id": "4",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/5zN7pmQ6vpc/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=5zN7pmQ6vpc"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "header": "Category 2",
+          "videos": [
+            {
+              "id": "1",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/_tM5Gyat6aw/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=_tM5Gyat6aw"
+            },
+            {
+              "id": "2",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/vLWIlDvzgY0/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=vLWIlDvzgY0"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "header": "Category 2",
+          "videos": [
+            {
+              "id": "1",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/_tM5Gyat6aw/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=_tM5Gyat6aw"
+            },
+            {
+              "id": "2",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/vLWIlDvzgY0/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=vLWIlDvzgY0"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "header": "Category 2",
+          "videos": [
+            {
+              "id": "1",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/_tM5Gyat6aw/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=_tM5Gyat6aw"
+            },
+            {
+              "id": "2",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/vLWIlDvzgY0/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=vLWIlDvzgY0"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "header": "Category 2",
+          "videos": [
+            {
+              "id": "1",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/_tM5Gyat6aw/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=_tM5Gyat6aw"
+            },
+            {
+              "id": "2",
+              "title": "Lorem Ipsum",
+              "sub_title": "Body text",
+              "thumbnail": "https://img.youtube.com/vi/vLWIlDvzgY0/mqdefault.jpg",
+              "video_url": "https://www.youtube.com/watch?v=vLWIlDvzgY0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "code": "SUCCESS",
+  "message": "City list fetched",
+  "cityList": [
+      {
+          "cityCode": 27503,
+          "cityName": "Amravati "
+      },
+      {
+          "cityCode": 27504,
+          "cityName": "Wardha "
+      },
+      {
+          "cityCode": 27527,
+          "cityName": "Satara "
+      },
+      {
+          "cityCode": 27519,
+          "cityName": "Mumbai "
+      },
+      {
+          "cityCode": 27520,
+          "cityName": "Raigarh "
+      },
+      {
+          "cityCode": 27528,
+          "cityName": "Ratnagiri "
+      },
+      {
+          "cityCode": 27511,
+          "cityName": "Nanded "
+      },
+      {
+          "cityCode": 27509,
+          "cityName": "Chandrapur "
+      },
+      {
+          "cityCode": 27499,
+          "cityName": "Jalgaon "
+      },
+      {
+          "cityCode": 27523,
+          "cityName": "Bid "
+      },
+      {
+          "cityCode": 27515,
+          "cityName": "Aurangabad "
+      },
+      {
+          "cityCode": 27512,
+          "cityName": "Hingoli "
+      },
+      {
+          "cityCode": 27507,
+          "cityName": "Gondiya "
+      },
+      {
+          "cityCode": 27498,
+          "cityName": "Dhule "
+      },
+      {
+          "cityCode": 27506,
+          "cityName": "Bhandara "
+      },
+      {
+          "cityCode": 27518,
+          "cityName": "Mumbai Suburban "
+      },
+      {
+          "cityCode": 27526,
+          "cityName": "Solapur "
+      },
+      {
+          "cityCode": 27525,
+          "cityName": "Osmanabad "
+      },
+      {
+          "cityCode": 27524,
+          "cityName": "Latur "
+      },
+      {
+          "cityCode": 27516,
+          "cityName": "Nashik "
+      },
+      {
+          "cityCode": 27510,
+          "cityName": "Yavatmal "
+      },
+      {
+          "cityCode": 27531,
+          "cityName": "Sangli "
+      },
+      {
+          "cityCode": 27500,
+          "cityName": "Buldana "
+      },
+      {
+          "cityCode": 27501,
+          "cityName": "Akola "
+      },
+      {
+          "cityCode": 27521,
+          "cityName": "Pune "
+      },
+      {
+          "cityCode": 27502,
+          "cityName": "Washim "
+      },
+      {
+          "cityCode": 27508,
+          "cityName": "Gadchiroli "
+      },
+      {
+          "cityCode": 27513,
+          "cityName": "Parbhani "
+      },
+      {
+          "cityCode": 27514,
+          "cityName": "Jalna "
+      },
+      {
+          "cityCode": 27529,
+          "cityName": "Sindhudurg "
+      },
+      {
+          "cityCode": 27505,
+          "cityName": "Nagpur "
+      },
+      {
+          "cityCode": 27660,
+          "cityName": "Palghar "
+      },
+      {
+          "cityCode": 27530,
+          "cityName": "Kolhapur "
+      },
+      {
+          "cityCode": 27522,
+          "cityName": "Ahmadnagar "
+      },
+      {
+          "cityCode": 27517,
+          "cityName": "Thane "
+      },
+      {
+          "cityCode": 27497,
+          "cityName": "Nandurbar "
+      }
+  ]
+}

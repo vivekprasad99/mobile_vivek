@@ -1,0 +1,26 @@
+[
+    {
+      "update_reason_title": "Bank Account Closed",
+      "update_reason_desc": "You may hold your mandate temporarily and need not cancel . Do you want to hold mandate?"
+    },
+    {
+      "update_reason_title": "Account Re -KYC not done.",
+      "update_reason_desc": "Mandate will not be presented for closed loans. Do you still want to proceed with cancellation."
+    },
+    {
+      "update_reason_title": "Insufficient Funds",
+      "update_reason_desc": "Do you want to update mandate with a new bank account? Your previous mandate will get auto cancelled on registering a new mandate."
+    },
+    {
+      "update_reason_title": "Technical Issue at Bank",
+      "update_reason_desc": "Do you want to update mandate with a new bank account? Your previous mandate will get auto cancelled on registering a new mandate."
+    },
+    {
+      "update_reason_title": "Want to update my primary bank account.",
+      "update_reason_desc": "Do you want to update mandate with a new bank account? Your previous mandate will get auto cancelled on registering a new mandate."
+    },
+    {
+      "update_reason_title": "Other Issue",
+      "update_reason_desc": null
+    }
+  ]

@@ -1,0 +1,23 @@
+{
+   "code": "SUCCESS",
+   "responseCode": "",
+   "data": {
+      "status": "PENDING",
+      "errDesc": "Please authorise the mandate request using UPI APP now",
+      "cp_mdt_ref_no": "MAAT66UPIPP478YUAT989MAND1000089524",
+      "res": {
+         "trxnno": "17530816666044",
+         "amount": "18360.00",
+         "pattern": "ASPRESENTED",
+         "mandatestartdate": "19052024",
+         "mandateenddate": "05022029",
+         "merchantid": "883798",
+         "subbillerid": "661409",
+         "revokeable": "Y",
+         "payervpa": "8586000708@ybl",
+         "payername": "RAGHAV MANISH SINGH",
+         "redirecturl": "",
+         "mandateexpirytime": 0
+      }
+   }
+}

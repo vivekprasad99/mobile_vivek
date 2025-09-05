@@ -1,0 +1,40 @@
+{
+  "status": "Success",
+  "message": "Request completed successfully",
+  "data": [
+    {
+      "ucic": "60017805005",
+      "cif": "415",
+      "branchId": "1000",
+      "loanAccountNumber": "1000CD00002634",
+      "totalAmount": 1000000.0,
+      "totalPendingAmount": 0.0,
+      "interestRate": 11.23,
+      "installmentAmount": 116375.0,
+      "excessAmount": 0.0,
+      "loanStatus": "ACTIVE",
+      "dpd": 1185,
+      "lob": "CDSUB",
+      "mandateStatus": "APPROVED",
+      "sourceSystem": "PENNANT",
+      "productCategory": "Personal Loan"
+    },
+    {
+      "ucic": "60017805005",
+      "cif": "415",
+      "branchId": "1000",
+      "loanAccountNumber": "1000CD00002635",
+      "totalAmount": 1000000.0,
+      "totalPendingAmount": 0.0,
+      "interestRate": 11.23,
+      "installmentAmount": 116375.0,
+      "excessAmount": 0.0,
+      "loanStatus": "ACTIVE",
+      "dpd": 1186,
+      "lob": "CDSUB",
+      "mandateStatus": "APPROVED",
+      "sourceSystem": "PENNANT",
+      "productCategory": "Personal Loan"
+    }
+  ]
+}

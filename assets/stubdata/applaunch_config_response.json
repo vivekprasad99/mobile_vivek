@@ -1,0 +1,10 @@
+{
+  "code": "SUCCESS",
+  "message": "App configuration details",
+  "iosBuildVersion": "1.2.3",
+  "androidBuildVersion": "1.0.0",
+  "iosForceUpdateFlag": false,
+  "androidForceUpdateFlag": false,
+  "createMpinMaxAttempt": 3,
+  "maxPanLanAttempts": 3
+}

@@ -1,0 +1,42 @@
+# melos_managed_dependency_overrides: ach,app_launch_check,appstatus,billpayments,common,core,faq,lead_generation,loan,loan_refund,locate_us,noc,payment_gateway,payment_webview,product,product_details,profile,service_request,service_ticket,help
+dependency_overrides:
+  ach:
+    path: ../../shared_features/ach
+  app_launch_check:
+    path: ../../plugins/app_launch_check
+  appstatus:
+    path: ../appstatus
+  billpayments:
+    path: ../../shared_features/billpayments
+  common:
+    path: ../../common
+  core:
+    path: ../../core
+  faq:
+    path: ../faq
+  help:
+    path: ../../shared_features/help
+  lead_generation:
+    path: ../lead_generation
+  loan:
+    path: ../loan
+  loan_refund:
+    path: ../loan_refund
+  locate_us:
+    path: ../locate_us
+  noc:
+    path: ../noc
+  payment_gateway:
+    path: ../../shared_features/payment_gateway
+  payment_webview:
+    path: ../../shared_features/payment_webview
+  product:
+    path: ../product
+  product_details:
+    path: ../product_details
+  profile:
+    path: ../profile
+  service_request:
+    path: ../service_request
+  service_ticket:
+    path: ../../shared_features/service_ticket

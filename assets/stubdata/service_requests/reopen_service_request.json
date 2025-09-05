@@ -1,0 +1,9 @@
+{
+    "code": "SUCCESS",
+    "message": "Case Reopened Successfully",
+    "data": {
+        "Status_Msg": "SUCCESS",
+        "timestamp": "2024-06-20T10:49:15.198325244Z",
+        "uniqueReqno": "e2b8684c-9590-4ab1-bb6d-284a1018f5a5"
+    }
+}

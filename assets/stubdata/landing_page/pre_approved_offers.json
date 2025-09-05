@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "total": 4,
+        "query_params": {
+            "language": "en"
+        }
+    },
+    "data": {
+        "offers_list": [
+            {
+                "offer_type": "generic_offers",
+                "offer_sub_type": "",
+                "offer_name": "Personal Loan @ offer_percentage p.a",
+                "header": "Personal Loan @ offer_percentage p.a",
+                "sub_header": "<p>Personal Loan is easy as ever&nbsp;</p>",
+                "offer_start_date": "2024-05-31T17:00:51",
+                "offer_end_date": "2024-06-03T17:00:58",
+                "offer_id": "1",
+                "image": "https://api-dev.mmfsl.com/oneapp/secure-image?fid=34",
+                "button_name": "Avail now",
+                "offer_detail_tabs": [
+                    {
+                        "tab_title": "Features And Benefits",
+                        "tab_details": {
+                            "title": "About this features ",
+                            "loan_amount": "1212121",
+                            "tenure": "12",
+                            "emi_tenure_min": "12 months",
+                            "emi_tenure_max": "23 months",
+                            "roi": "10%",
+                            "features_list": [
+                                "Wide variety of vehicles",
+                                "Attractive Interest rates",
+                                "Multiple repayment options"
+                            ]
+                        }
+                    },
+                    {
+                        "tab_title": "Eligibility ",
+                        "tab_details": {
+                            "title": "About this eligibility ",
+                            "eligibility_list": [
+                                "Eligibility 1",
+                                "Eligibility 2"
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "offer_type": "personalized_offer",
+                "offer_sub_type": "pl-suvidha",
+                "offer_name": "Personal loan p.a",
+                "header": "Personal loan @ offer_flat_rate p.a",
+                "sub_header": "<p>Personal loan with offer</p>",
+                "offer_start_date": "2024-05-10T17:02:57",
+                "offer_end_date": "2024-05-24T17:02:01",
+                "offer_id": "2",
+                "image": "https://api-dev.mmfsl.com/oneapp/secure-image?fid=35",
+                "button_name": "Avail now",
+                "offer_detail_tabs": [
+                    {
+                        "tab_title": "Features And Benefits",
+                        "tab_details": {
+                            "title": "About this Features",
+                            "loan_amount": "12222",
+                            "tenure": "12",
+                            "emi_tenure_min": "12 months",
+                            "emi_tenure_max": "24 Months",
+                            "roi": "10%",
+                            "features_list": [
+                                "Features List 1",
+                                "Features List 1"
+                            ]
+                        }
+                    },
+                    {
+                        "tab_title": "Eligibility ",
+                        "tab_details": {
+                            "title": "Eligibility & Documents",
+                            "eligibility_list": [
+                                "Eligibility 1",
+                                "Eligibility 2",
+                                "Eligibility 3"
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "offer_type": "personalized_offer",
+                "offer_sub_type": "pl-lead",
+                "offer_name": "Personalized offer 2",
+                "header": "Personalized offer @ offer_amount p.a",
+                "sub_header": "<p>Start typing the title of a piece of content to select it. You can also enter an internal path such asStart typing the title of a piece of content to select it. You can also enter an internal path such as</p>",
+                "offer_start_date": "2024-06-05T08:38:10",
+                "offer_end_date": "2024-06-18T08:39:14",
+                "offer_id": "1212",
+                "image": "https://api-dev.mmfsl.com/oneapp/secure-image?fid=38",
+                "button_name": "Avail now",
+                "offer_detail_tabs": [
+                    {
+                        "tab_title": "Features And Benefits",
+                        "tab_details": {
+                            "title": "About this offer",
+                            "loan_amount": "123",
+                            "tenure": "12",
+                            "emi_tenure_min": "12",
+                            "emi_tenure_max": "12",
+                            "roi": "12",
+                            "features_list": [
+                                "Features List 1",
+                                "Features List 2",
+                                "Features List 3"
+                            ]
+                        }
+                    },
+                    {
+                        "tab_title": "Eligibility Tab Title",
+                        "tab_details": {
+                            "title": "About this Eligibility list",
+                            "eligibility_list": [
+                                "Eligibility 1",
+                                "Eligibility 2",
+                                "Eligibility 3"
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "offer_type": "personalized_offer",
+                "offer_sub_type": "pl-lead",
+                "offer_name": "Tenure Related offer",
+                "header": "Tenure offer @ offer_tenure",
+                "sub_header": "<p>This is the offer for tenure, please make use of it.</p>",
+                "offer_start_date": "",
+                "offer_end_date": "",
+                "offer_id": "232",
+                "image": "",
+                "button_name": "Avail now",
+                "offer_detail_tabs": [
+                    {
+                        "tab_title": "Features And Benefits",
+                        "tab_details": {
+                            "title": "About this Features ",
+                            "loan_amount": "",
+                            "tenure": "",
+                            "emi_tenure_min": "",
+                            "emi_tenure_max": "",
+                            "roi": "",
+                            "features_list": [
+                                "Features List",
+                                "Features List"
+                            ]
+                        }
+                    },
+                    {
+                        "tab_title": "Eligibility Tab Title",
+                        "tab_details": {
+                            "title": "",
+                            "eligibility_list": [
+                                "Eligibility 1",
+                                "Eligibility 2"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

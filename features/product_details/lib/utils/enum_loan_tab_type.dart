@@ -1,0 +1,1 @@
+enum LoanTabType { active, closed }

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "total": 2,
+        "query_params": {
+            "language": "en"
+        }
+    },
+    "data": {
+        "banners": [
+            {
+                "banner_title": "Home Loan Overview",
+                "banner_subtitle": "Home Loan Overview",
+                "link": "internal:/",
+                "image": "https://api-dev.mmfsl.com/oneapp/secure-image?fid=2",
+                "product_type": "Investment"
+            },
+            {
+                "banner_title": "Personal Loan overview",
+                "banner_subtitle": "Product Banner Subtitle",
+                "link": "http://example.com",
+                "image": "https://api-dev.mmfsl.com/oneapp/secure-image?fid=3",
+                "product_type": "Loans"
+            }
+        ]
+    }
+}

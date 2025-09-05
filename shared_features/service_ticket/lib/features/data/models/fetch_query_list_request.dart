@@ -1,0 +1,3 @@
+class FetchQueryListRequest {
+  FetchQueryListRequest();
+}

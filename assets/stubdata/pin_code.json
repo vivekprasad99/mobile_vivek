@@ -1,0 +1,19 @@
+{
+    "code": "SUCCESS",
+    "message": "State city list fetched",
+    "responseCode": "MS1001",
+    "stateCityList": [
+        {
+            "stateCode": 19,
+            "stateName": "WEST BENGAL                                       ",
+            "cityCode": 19339,
+            "cityName": "Bankura "
+        },
+        {
+            "stateCode": 19,
+            "stateName": "WEST BENGAL                                       ",
+            "cityCode": 19338,
+            "cityName": "Hugli "
+        }
+    ]
+}

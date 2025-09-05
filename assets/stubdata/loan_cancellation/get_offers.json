@@ -1,0 +1,11 @@
+{
+    "status": "Success",
+    "message": "Request completed successfully",
+    "data": [
+      {
+        "id": 1,
+        "name": "Let your money work for you",
+        "image": "https://api-dev.mmfsl.com/oneapp/secure-image?fid=27"
+      }
+    ]
+  }

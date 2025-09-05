@@ -1,0 +1,30 @@
+{
+  "code": "SUCCESS",
+  "message": "Languages retrieved successfully",
+  "languages": [
+    {
+      "lang_title": "English",
+      "lang_name": "English",
+      "lang_code": "en",
+      "lang_img": "en"
+    },
+    {
+      "lang_title": "Hindi",
+      "lang_name": "हिंदी",
+      "lang_code": "hi",
+      "lang_img": "hi"
+    },
+    {
+      "lang_title": "Marathi",
+      "lang_name": "मराठी",
+      "lang_code": "mr",
+      "lang_img": "mr"
+    },
+    {
+      "lang_title": "Kannada",
+      "lang_name": "ಕನ್ನಡ",
+      "lang_code": "kn",
+      "lang_img": "kn"
+    }
+  ]
+}

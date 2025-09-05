@@ -1,0 +1,14 @@
+{
+  "code": "SUCCESS",
+  "message": "SR generated successfully",
+  "responseCode": "",
+  "data": {
+    "isNewTicket": true,
+    "oldTickets": [
+      "",
+      ""
+    ],
+    "ServiceTicket-Number": "CAS-04609-B3X2N3",
+    "message": ""
+  }
+}

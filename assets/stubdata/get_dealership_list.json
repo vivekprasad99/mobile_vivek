@@ -1,0 +1,18 @@
+{
+  "code": "SUCCESS",
+  "message": "Unable to verify PAN. Please enter relationship/ loan account number in addition to PAN",
+  "data": [
+    {
+      "dealership": "AAA",
+      "dealershipCode": "01"
+    },
+    {
+      "dealership": "BBB",
+      "dealershipCode": "02"
+    },
+    {
+      "dealership": "CCC",
+      "dealershipCode": "03"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "code": "SUCCESS",
+    "message": "REQUEST COMPLETED",
+    "responseCode": "KYC1001",
+    "inputName": "Shrishail",
+    "aadhaarName": "Shrishail",
+    "matchScore": 100,
+    "dob": "",
+    "gender": "M",
+    "maskedVID": "XXXX XXXX2985",
+    "maskedAadhaar": "XXXXXXXX 2985",
+    "profileImage": "/9j/4AAQSkZJRgABAg",
+    "aadhaarAddress": {
+        "landmark": "Near Basaveshwar Temapl",
+        "district": "Gulbarga",
+        "vtcName": "Jewargi",
+        "location": "Alur",
+        "postOffice": "Alur",
+        "state": "Karnataka",
+        "country": "India",
+        "combinedAddress": "Near Basaveshwar Temapl, Gulbarga,Jewargi, Alur, Alur, Karnataka,India, 585325",
+        "pincode": "585325"
+    }
+}

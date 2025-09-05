@@ -1,0 +1,22 @@
+{
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit",
+      "quickfix.create.constructorForFinalFields": "explicit",
+      "quickfix.add.async": "explicit",
+      "quickfix.add.callSuper": "explicit",
+      "quickfix.add.explicitCast": "explicit",
+      "quickfix.add.required": "explicit",
+      "quickfix.add.required.multi": "explicit",
+      "quickfix.add.returnType": "explicit",
+      "quickfix.add.typeAnnotation": "explicit",
+      "quickfix.add.typeAnnotation.multi": "explicit",
+      "quickfix.add.fieldFormalParameters": "explicit",
+      "quickfix.remove.await": "explicit",
+      "quickfix.remove.await.multi": "explicit"
+    },
+  }
+}

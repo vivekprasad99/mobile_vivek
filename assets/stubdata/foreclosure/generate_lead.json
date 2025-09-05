@@ -1,0 +1,7 @@
+{
+    "status":"Success",
+    "message":"FD lead generated successfully",
+    "data": {
+        "fixedDepositLeadId":"1234"
+    }
+}

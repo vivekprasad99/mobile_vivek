@@ -1,0 +1,13 @@
+{
+  "code": "SUCCESS",
+  "message": "SUCCESS",
+  "responseCode": "ROM1001",
+  "paymentHistory": [
+    {
+      "date": "14/02/2024",
+      "receiptNumber": 5106445,
+      "instalmentAmount": 500.0,
+      "modeofPayment": "Cash"
+    }
+  ]
+}

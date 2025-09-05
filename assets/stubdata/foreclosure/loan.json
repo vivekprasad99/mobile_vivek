@@ -1,0 +1,18 @@
+{ 
+  "status":"Success", 
+  "message":"Request completed successfully",
+  "data":{
+    "ucic": "60016615695",
+    "loanNumber": "8682345",
+    "totalPendingAmount": 0.0,
+    "totalAmount": 0.0,
+    "serviceRequestStatus": "InActive",
+    "lockingPeriodExists": false,
+    "freezePeriodExists": false,
+    "lockingPeriodEndDate": "2023-02-12",
+    "sourceSystem": "AUTOFIN",
+    "productCategory": "Personal Loan",
+    "ruleOnePassed": true,
+    "serviceRequestExist": false
+  }
+}

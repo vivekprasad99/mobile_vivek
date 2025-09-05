@@ -1,0 +1,49 @@
+{
+  "code": "SUCCESS",
+  "message": "Request completed successfully",
+  "responseCode": "",
+  "data": {
+    "response": {
+      "StatusCode": "NP000",
+      "data": {
+        "customer": {
+          "id": "ed52b7883324089bd0",
+          "colltn_amt": 100,
+          "submitted_on": "2024-03-15 18:11:39",
+          "accptd": "pending",
+          "colltn_until_cncl": true,
+          "debit_type": "Maximum Amount",
+          "name": "Abhimanyu Gupta",
+          "mobile_no": "+91-8777350601",
+          "tel_no": null,
+          "email": "abhimanyu.gupta@nupay.co.in",
+          "seq_tp": "RCUR",
+          "frqcy": "MNTH",
+          "frst_colltn_dt": "2024-03-16",
+          "fnl_colltn_dt": "2054-02-16",
+          "expires_at": "2024-04-14T00:00:00.000+05:30",
+          "bank_accounts": [
+            {
+              "account_holder_name": "Abhimanyu Gupta",
+              "bank_account_no": "0151177111",
+              "auth_type": "DebitCard",
+              "account_type": "Savings",
+              "pancard": null,
+              "ifsc_code": "ICIC0001234",
+              "company_ifsc_code": "ICIC0TREA00"
+            }
+          ],
+          "accpt_ref_no": "",
+          "reason_code": "",
+          "reason_desc": "",
+          "reject_by": "",
+          "npci_ref_no": "",
+          "umrn": ""
+        }
+      }
+    },
+    "error": "ER000",
+    "message": "SUCCESS",
+    "serviceName": "getStatus"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "code": "SUCCESS",
+    "message": "Success",
+    "data": {
+      "code": "1",
+      "value": "outstanding_due",
+      "charges": 292165.69,
+      "msg": "Contarct is Having Outstanding Amount--292165.69"
+    }
+  }

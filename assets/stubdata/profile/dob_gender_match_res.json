@@ -1,0 +1,7 @@
+{
+    "code": "SUCCESS",
+    "message": "REQUEST COMPLETED",
+    "responseCode": "KYC1001",
+    "dobScore": 100,
+    "genderScore": 100
+}

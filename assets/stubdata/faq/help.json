@@ -1,0 +1,111 @@
+{
+  "data": {
+    "categories": [
+      {
+        "faq_type": "features",
+        "title": "features",
+        "product_types": [
+          {
+            "product_type": "registration",
+            "title": "registration",
+            "sub_types": [
+              {
+                "product_sub_type": "otp",
+                "title": "OTP Faq",
+                "screen_title": "OTP Faq",
+                "image": "",
+                "types": [
+                  {
+                    "id": 1,
+                    "header": "otp N",
+                    "faq": [
+                      {
+                        "id": 1,
+                        "question": "OTP faq QN",
+                        "answer": "<p>OTP faq ANS</p>"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 2,
+                    "header": "otp New",
+                    "faq": [
+                      {
+                        "id": 1,
+                        "question": "OTP faq New",
+                        "answer": "<p>OTP faq ANS</p>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "product_sub_type": "mpin",
+                "title": "mpin Faq",
+                "screen_title": "mpin Faq",
+                "image": "",
+                "types": [
+                  {
+                    "id": 1,
+                    "header": "mpin Faq",
+                    "faq": [
+                      {
+                        "id": 1,
+                        "question": "mpin faq QN",
+                        "answer": "<p>mpin faq ANS</p>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "product_type": "login",
+            "title": "login",
+            "sub_types": [
+              {
+                "product_sub_type": "otp",
+                "title": "OTP Faq",
+                "screen_title": "OTP Faq",
+                "image": "",
+                "types": [
+                  {
+                    "id": 1,
+                    "header": "OTP Faq",
+                    "faq": [
+                      {
+                        "id": 1,
+                        "question": "OTP faq QN",
+                        "answer": "<p>OTP faq ANS</p>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "product_sub_type": "mpin",
+                "title": "mpin Faq",
+                "screen_title": "mpin Faq",
+                "image": "",
+                "types": [
+                  {
+                    "id": 1,
+                    "header": "mpin Faq",
+                    "faq": [
+                      {
+                        "id": 1,
+                        "question": "mpin faq QN",
+                        "answer": "<p>mpin faq ANS</p>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

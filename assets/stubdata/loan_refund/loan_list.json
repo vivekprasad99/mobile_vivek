@@ -1,0 +1,62 @@
+{
+    "loan": [
+        {
+            "id": "1",
+            "loan name": "Utility Vehicle loan",
+            "loan_type": "vehicle",
+            "loan_acc_no": "87866976654",
+            "loan_status": "active",
+            "loan_amt": "100000",
+            "excess_balance": "5550",
+            "emi_total": "25",
+            "emi_paid": "20",
+            "upcoming_emi": "-",
+            "e_mandate_status": true
+        },
+        {
+            "id": "2",
+            "loan name": "Personal finance",
+            "loan_type": "vehicle",
+            "loan_acc_no": "109097097",
+            "loan_status": "active",
+            "loan_amt": "100000",
+            "excess_balance": "5550",
+            "realised_funds": "",
+            "unrealised_funds": "",
+            "emi_total": "25",
+            "emi_paid": "25",
+            "upcoming_emi": "-",
+            "e_mandate_status": false
+        },
+        {
+            "id": "3",
+            "loan name": "Personal finance",
+            "loan_type": "vehicle",
+            "loan_acc_no": "109097097",
+            "loan_status": "active",
+            "loan_amt": "100000",
+            "excess_balance": "5550",
+            "realised_funds": "",
+            "unrealised_funds": "",
+            "emi_total": "25",
+            "emi_paid": "25",
+            "upcoming_emi": "-",
+            "e_mandate_status": false
+        },
+        {
+            "id": "4",
+            "loan name": "Personal finance",
+            "loan_type": "vehicle",
+            "loan_acc_no": "109097097",
+            "loan_status": "active",
+            "loan_amt": "100000",
+            "excess_balance": "5550",
+            "realised_funds": "",
+            "unrealised_funds": "",
+            "emi_total": "25",
+            "emi_paid": "25",
+            "upcoming_emi": "-",
+            "e_mandate_status": false
+        }
+    ]
+}

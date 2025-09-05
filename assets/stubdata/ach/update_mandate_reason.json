@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "total": 6,
+    "query_params": {
+      "status_type": "Update Mandate Reason"
+    }
+  },
+  "data": [
+    {
+      "id": "0",
+      "otherIssue": false,
+      "value": "Bank Account Closed"
+    },
+    {
+      "id": "1",
+      "otherIssue": false,
+      "value": "Account Re-KYC not done"
+    },
+    {
+      "id": "2",
+      "otherIssue": false,
+      "value": "Insufficient Funds"
+    },
+    {
+      "id": "3",
+      "otherIssue": false,
+      "value": "Technical Issue at Bank"
+    },
+    {
+      "id": "4",
+      "otherIssue": false,
+      "value": "Want to update my primary bank account."
+    },
+    {
+      "id": "5",
+      "otherIssue": true,
+      "value": "Other Issue"
+    }
+  ]
+}

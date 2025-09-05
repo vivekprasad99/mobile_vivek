@@ -1,0 +1,18 @@
+{
+  "code": "SUCCESS",
+  "message": "This is the existing Device",
+  "responseCode": "REG1001",
+  "deviceExist": true,
+  "canAddProfileToDevice": true,
+  "profiles": [
+    {
+      "superAppId": "2390989",
+      "mobileNumber": "810520213",
+      "userFullName": "Shrishail",
+      "theme": "dark",
+      "ucic": "35263728122",
+      "isCustomer": true,
+      "languageCode":"en"
+    }
+  ]
+}

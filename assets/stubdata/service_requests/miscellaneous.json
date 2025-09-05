@@ -1,0 +1,38 @@
+{
+    "status": "SUCCESS",
+    "meta": {
+        "total": 2
+    },
+    "message": "Request completed successfully",
+    "data": [
+        {            
+            "tid": "1",
+            "type":"Miscellaneous",
+            "query": "Vehicle Insurance",
+            "sub_query": [
+                {
+                    "tid": "1",
+                    "case_type": "18",
+                    "name": "Vehicle Insurance/MLS/MAS - Dispute"    
+                },
+                {
+                    "tid": "2",
+                    "case_type": "80",
+                    "name": "Vehicle Insurance/MLS/MAS"    
+                }
+            ]
+        },
+        {
+            "tid": "2",
+            "type":"Miscellaneous",
+            "query": "Others",
+            "sub_query": [
+                {
+                    "tid": "1",
+                    "case_type": "",
+                    "name": "Others"
+                }              
+            ]
+        }     
+    ]
+}

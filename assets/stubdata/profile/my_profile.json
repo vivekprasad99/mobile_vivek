@@ -1,0 +1,30 @@
+{
+    "code": "SUCCESS",
+    "message": "Profile fetched successfully.",
+    "responseCode": "COM1005",
+    "data": {
+        "code": "SUCCESS",
+        "message": "Profile fetched successfully.",
+        "responseCode": "COM1005",
+        "customerName": "Ankitkumar Devendrakumar Khatri",
+        "mobileNumber": "9821141962",
+        "dob": "07/07/1988",
+        "pan": "ABWJB8190K",
+        "gender": "Male",
+        "emailID" : "ankitkumar@gmail.com",
+        "addressUpdateAllowed": true,
+        "otherUpdateAllowed": true,
+        "permanentAddr": {
+            "city": "MUM",
+            "state": "MH",
+            "postalCode": "400081",
+            "fullAddress": "A/20, Sai Darshan"
+        },
+        "communicationAddr": {
+            "city": "MUM",
+            "state": "MH",
+            "postalCode": "400081",
+            "fullAddress": "A/20, Sai Darshan"
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "banks": [
+      {
+        "bankName": "INDIAN BANK",
+        "bankCode": "IDIB",
+        "isPopular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "AXIS BANK",
+        "bankCode": "AXIB",
+        "isPopular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          }
+        ]
+      },
+      {
+        "bankName": "ICICI BANK",
+        "bankCode": "ICIC",
+        "isPopular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "HDFC BANK",
+        "bankCode": "HDFC",
+        "isPopular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "IDFC BANK",
+        "bankCode": "IDFC",
+        "isPopular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "Aadhar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "bankName": "SBI BANK",
+        "bankCode": "SBI",
+        "isPopular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "Aadhar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "INDIAN BANK",
+        "bankCode": "IDIB",
+        "isPopular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "Aadhar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "INDUSIND BANK",
+        "bankCode": "INBA",
+        "isPopular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "Aadhar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "BANK OF BARODA",
+        "bankCode": "BARB",
+        "isPopular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "Aadhar",
+            "option_name": "Adhar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      }
+    ]
+  }
+}

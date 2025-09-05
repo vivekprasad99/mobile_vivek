@@ -1,0 +1,7 @@
+{
+  "code": "SUCCESS",
+  "message": "Wrong PIN . No of Retries remaining # 2",
+  "responseCode": "OTP1007",
+  "currentAttempts": 0,
+  "maxAttempts": 3
+}

@@ -1,0 +1,9 @@
+{
+  "code": "SUCCESS",
+  "message": "Request completed successfully",
+  "data": [
+    {
+      "query": "Query One"
+    }
+  ]
+}

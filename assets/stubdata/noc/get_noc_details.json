@@ -1,0 +1,21 @@
+{
+  "code": "SUCCESS",
+  "message": " FAILURE ",
+  "data": {
+    "ucic": "1345",
+    "loanAccountNumber": "123456",
+    "productCategory": "Vehicle Loan",
+    "productName": "VL1235683",
+    "registrationNo": null,
+    "endDate": "2020-06-19T00:00:00.000+00:00",
+    "model": "Mahindra XUV 700",
+    "nocStatus": "initiated",
+    "deliveryLocation": "Mahindra & Mahindra Finance, Worli Branch",
+    "branchName": "Mahindra & Mahindra Finance, Worli Branch",
+    "branchLocation": "224/7, Mahindra Bldg., W.K Marg,Bandra, Maharashtra 4013852",
+    "handoverTo": "CUSTOMER/RTO",
+    "handoverDate": "2023-05-19 00:00:00.0",
+    "handoverToName": "MR.   K S  MANJEGOWDA   S O SHIVEGOWDA"
+
+  }
+}

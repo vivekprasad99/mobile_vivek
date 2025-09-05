@@ -1,0 +1,8 @@
+{
+    "status": "SUCCESS",
+    "message":"Request completed successfully",
+    "data":
+      {
+        "days":"5"
+      }
+  }

@@ -1,0 +1,33 @@
+{
+    "status": "SUCCESS",
+    "meta": {
+        "total": 2
+    },
+    "message": "Request completed successfully",
+    "data": [
+        {            
+            "tid": "1",
+            "type": "payment",
+            "query": "Payment not updated",
+            "sub_query": [
+                {
+                    "tid": "1",
+                    "case_type": "21",
+                    "name": "SOA not updated"    
+                }               
+            ]
+        },
+        {
+            "tid": "2",
+            "type":"payment",
+            "query": "Dispute Charges",
+            "sub_query": [
+                {
+                    "tid": "1",
+                    "case_type": "43",
+                    "name": "AFC/Other Charges"
+                }              
+            ]
+        }     
+    ]
+}

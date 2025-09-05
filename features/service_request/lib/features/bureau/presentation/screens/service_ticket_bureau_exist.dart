@@ -1,0 +1,163 @@
+import 'package:core/config/resources/app_colors.dart';
+import 'package:core/config/resources/image_constant.dart';
+import 'package:core/config/string_resource/strings.dart';
+import 'package:core/config/widgets/background/mf_gradient_background.dart';
+import 'package:core/config/widgets/custom_buttons/mf_custom_elevated_button.dart';
+import 'package:core/config/widgets/mf_progress_bar.dart';
+import 'package:core/config/widgets/mf_theme_check.dart';
+import 'package:core/config/widgets/mf_toast.dart';
+import 'package:core/utils/const.dart';
+import 'package:core/utils/size_utils.dart';
+import 'package:core/utils/utils.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import 'package:go_router/go_router.dart';
+import 'package:common/config/routes/route.dart' as common_route;
+import 'package:service_ticket/config/routes/route.dart' as ticket;
+import 'package:service_ticket/features/data/models/service_request_response.dart';
+import 'package:service_ticket/features/data/models/sr_details_request.dart';
+import 'package:service_ticket/features/presentation/cubit/service_request_cubit.dart';
+import 'package:service_ticket/features/presentation/cubit/service_request_state.dart';
+
+class ServiceRequestExist extends StatelessWidget {
+  final ServiceRequestResponse serviceRequestResponse;
+
+  const ServiceRequestExist({required this.serviceRequestResponse, super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    var serviceTicketNumber = serviceRequestResponse.data?.oldTickets?.first.toString();
+    return Scaffold(
+      appBar: AppBar(
+        automaticallyImplyLeading: false,
+        backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
+      ),
+      body: MFGradientBackground(
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            SizedBox(height: 50.v),
+            SvgPicture.asset(
+              ImageConstant.info,
+              height: 68.v,
+              width: 48.h,
+              colorFilter: ColorFilter.mode(
+                  setColorBasedOnTheme(
+                      context: context,
+                      lightColor: AppColors.secondaryLight,
+                      darkColor: AppColors.secondaryLight),
+                  BlendMode.srcIn),
+            ),
+            SizedBox(height: 17.v),
+            Text(
+              getString(msgBureauServiceRequestExist),
+              style: Theme.of(context).textTheme.headlineLarge,
+            ),
+            SizedBox(height: 17.v),
+            Container(
+              width: double.infinity,
+              decoration: BoxDecoration(
+                  color: Theme.of(context).cardColor,
+                  borderRadius: const BorderRadius.all(Radius.circular(8))),
+              child: Padding(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 16,vertical: 16),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        Text(
+                          "${getString(serviceBureauTicketNo)} ${serviceTicketNumber ?? ""} ",
+                          style: Theme.of(context).textTheme.bodyMedium,
+                        ),
+                        InkWell(
+                          onTap: () async {
+                            await Clipboard.setData(ClipboardData(
+                              text:
+                                  "${getString(serviceBureauTicketNo)} ${serviceTicketNumber ?? ""} ",
+                            ));
+                            // copied successfully
+                          },
+                          child: Icon(
+                            Icons.copy,
+                            color: setColorBasedOnTheme(
+                                context: context,
+                                lightColor: AppColors.primaryLight,
+                                darkColor: AppColors.primaryLight5),
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(
+                      height: 20,
+                    ),
+                    Text(
+                      getString(bureauYouTicketRaised),
+                      style: Theme.of(context).textTheme.labelSmall,
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            const Spacer(),
+            BlocConsumer<ServiceRequestCubit, ServiceRequestState>(
+              listener: (BuildContext context, ServiceRequestState state) {
+                if (state is SrDetailsSuccessState) {
+                  if (state.response.code == AppConst.codeSuccess) {
+                    context.pushNamed(
+                        ticket.Routes.serviceRequestDetailScreen.name,
+                        extra: state.response.data?.first);
+                  } else {
+                    toastForFailureMessage(
+                        context: context,
+                        msg: getString(state.response.responseCode ??
+                            msgBureauSomethingWentWrong));
+                  }
+                } else if (state is SrDetailsFailureState) {
+                  showSnackBar(
+                      context: context,
+                      message: getFailureMessage(state.error));
+                }else if (state is ServiceRequestLoadingState) {
+                  if (state.isLoading) {
+                    showLoaderDialog(context, getString(lblBureauLoading));
+                  } else {
+                    Navigator.of(context, rootNavigator: true).pop();
+                  }
+                }
+              },
+              builder: (context, state) {
+                return Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    MfCustomButton(
+                        onPressed: () {
+                          SRDetailsRequest srDetailsReq = SRDetailsRequest(
+                              caseNumber: serviceTicketNumber);
+                          context
+                              .read<ServiceRequestCubit>()
+                              .srDetailsByNumber(srDetailsReq);
+                        },
+                        text: getString(bureauTrackRequest),
+                        outlineBorderButton: true),
+                    const SizedBox(
+                      height: 20,
+                    ),
+                    MfCustomButton(
+                        onPressed: () {
+                          context.goNamed(common_route.Routes.home.name);
+                        },
+                        text: getString(bureauHome),
+                        outlineBorderButton: false),
+                  ],
+                );
+              },
+            )
+          ],
+        ),
+      ),
+    );
+  }
+}

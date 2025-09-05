@@ -1,0 +1,14 @@
+{
+  "code": "SUCCESS",
+  "message": "SUCCESS",
+  "responseCode": "",
+  "data": {
+    "StatusCode": "SUCCESS",
+    "message": "SUCCESS",
+    "score": 70.0,
+    "beneficiaryName": "SHALINI DNYANES",
+    "accountStatus": "ACTIVE",
+    "pennyDropSuccess": true,
+    "nameMatchSuccess": true
+  }
+}

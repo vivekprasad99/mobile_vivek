@@ -1,0 +1,6 @@
+{
+  "code": "SUCCESS",
+  "message": "Presigned URI is generated successfully",
+  "presetURL": "https://mandate-doc.s3.ap-south-1.amazonaws.com/1000000019_out.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240425T141209Z&X-Amz-SignedHeaders=host&X-Amz-Expires=35999&X-Amz-Credential=AKIAZQ3DPG74TI6IP6PX%2F20240425%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=d539beb9363fa0e78fee612e5b2c7c493914019e6c827f1efeeaf622679c7328",
+  "filename": "1000000019_out.jpg"
+}

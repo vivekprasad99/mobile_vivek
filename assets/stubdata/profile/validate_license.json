@@ -1,0 +1,21 @@
+{
+    "code": "FAILURE",
+    "message": "FAILURE",
+    "data": {
+        "name": "PUNEET PANDEY",
+        "dob": "05-10-1994",
+        "dlNumber": "MH0120130001960",
+        "address": [
+            {
+                "addressLine1": "",
+                "state": "MAHARASHTRA",
+                "district": "MUMBAI",
+                "pin": 400013,
+                "completeAddress": "C/304 PIMPLESHWAR CHS MAHADEV PALAV MARG  CURREY RD MUMBAI  MUMBAI,MUMBAI,MH  400013",
+                "country": "",
+                "type": "NA"
+            }
+        ],
+        "status": "Active"
+    }
+}

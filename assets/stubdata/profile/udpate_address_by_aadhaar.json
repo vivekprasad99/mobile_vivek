@@ -1,0 +1,20 @@
+{
+  "code": "SUCCESS",
+  "message": "Partial Request Completed",
+  "responseCode": "AD1002",
+  "operation": "Pan Update",
+  "response": [
+    {
+      "source": "Autofin",
+      "loanNumber": "7165640",
+      "productName": "PL Next",
+      "status": "SUCCESS"
+    },
+    {
+      "source": "Finone",
+      "loanNumber": "7165640",
+      "productName": "Scorpio",
+      "status": "FAILURE"
+    }
+  ]
+}

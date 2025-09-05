@@ -1,0 +1,2644 @@
+{
+  "status": "SUCCESS",
+  "message": "SUCCESS",
+  "data": {
+    "banks": [
+      {
+        "bankId": 0,
+        "bankName": "INDIAN BANK",
+        "bank_code": "IDIB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankId": 0,
+        "bankName": "UNION BANK OF INDIA",
+        "bank_code": "UBIN",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          }
+        ]
+      },
+      {
+        "bankId": 0,
+        "bankName": "INDUSIND BANK",
+        "bank_code": "INDB",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "Aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "SBM BANK INDIA LTD",
+        "bank_code": "STCB",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "YES BANK",
+        "bank_code": "YESB",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "bankName": "CANARA BANK",
+        "bank_code": "CNRB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "BANK OF MAHARASHTRA",
+        "bank_code": "MAHB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "FEDERAL BANK",
+        "bank_code": "FDRL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "SURYODAY SMALL FINANCE BANK LTD",
+        "bank_code": "SURY",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "PUNJAB AND SIND BANK",
+        "bank_code": "PSIB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "IDBI BANK",
+        "bank_code": "IBKL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "CSB BANK LIMITED",
+        "bank_code": "CSBK",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "UJJIVAN SMALL FINANCE BANK LTD",
+        "bank_code": "USFB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "AIRTEL PAYMENTS BANK LTD",
+        "bank_code": "AIRP",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "KARNATAKA BANK LTD",
+        "bank_code": "KARB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "IDFC FIRST BANK LTD",
+        "bank_code": "IDFB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "PAYTM PAYMENTS BANK LTD",
+        "bank_code": "PYTM",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "ICICI BANK LTD",
+        "bank_code": "ICIC",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "ANDHRA PRAGATHI GRAMEENA BANK",
+        "bank_code": "APGB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "NSDL PAYMENTS BANKS LTD",
+        "bank_code": "NSPB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "DHANALAXMI BANK",
+        "bank_code": "DLXB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "KOTAK MAHINDRA BANK LTD",
+        "bank_code": "KKBK",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "PUNJAB NATIONAL BANK",
+        "bank_code": "PUNB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "CITIBANK N A",
+        "bank_code": "CITI",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "DCB BANK LTD",
+        "bank_code": "DCBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "RBL BANK LIMITED",
+        "bank_code": "RATN",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE SOUTH INDIAN BANK LIMITED",
+        "bank_code": "SIBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "STATE BANK OF INDIA",
+        "bank_code": "SBIN",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "DBS BANK INDIA LTD",
+        "bank_code": "DBSS",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "DEUTSCHE BANK AG",
+        "bank_code": "DEUT",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "STANDARD CHARTERED BANK",
+        "bank_code": "SCBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "TAMILNAD MERCANTILE BANK LTD",
+        "bank_code": "TMBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankId": 45,
+        "bankName": "HDFC BANK LTD",
+        "bank_code": "HDFC",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "AXIS BANK",
+        "bank_code": "UTIB",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          }
+        ]
+      },
+      {
+        "bankName": "BANK OF BARODA",
+        "bank_code": "BARB",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "Aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE JAMMU AND KASHMIR BANK LTD",
+        "bank_code": "JAKA",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "INDIAN OVERSEAS BANK",
+        "bank_code": "IOBA",
+        "is_popular": true,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "bankName": "CITY UNION BANK LTD",
+        "bank_code": "CIUB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD",
+        "bank_code": "HSBC",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE COSMOS CO-OPERATIVE BANK LTD",
+        "bank_code": "COSB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE VARACHHA CO OP BANK LTD",
+        "bank_code": "VARA",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "BANDHAN BANK LTD",
+        "bank_code": "BDBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "KARUR VYSA BANK",
+        "bank_code": "KVBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "KARNATAKA VIKAS GRAMEENA BANK",
+        "bank_code": "KVGB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "UCO BANK",
+        "bank_code": "UCBA",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "ESAF SMALL FINANCE BANK LTD",
+        "bank_code": "ESAF",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "FINCARE SMALL FINANCE BANK LTD",
+        "bank_code": "FINF",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE KALUPUR COMMERCIAL CO OP BANK",
+        "bank_code": "KCCB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE CHEMBUR NAGARIK SAHAKARI BANK",
+        "bank_code": "CNSX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "SHIVALIK SMALL FINANCE BANK LTD",
+        "bank_code": "SHIX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "KURLA NAGARIK SAHAKARI BANK LTD",
+        "bank_code": "KNSB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "CAPITAL SMALL FINANCE BANK LTD",
+        "bank_code": "CLBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE ADARSH CO OP URBAN BANK LTD",
+        "bank_code": "ACUX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE JUNAGADH COMMERCIAL CO OP BANK LTD",
+        "bank_code": "JUCX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE SURAT PEOPLES CO OP BANK LTD",
+        "bank_code": "SPCB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE ZOROASTRIAN CO OP BANK LTD",
+        "bank_code": "ZCBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "THE NATIONAL CO OP BANK LTD",
+        "bank_code": "NCBL",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "MAHESH SAHAKARI BANK LTD PUNE",
+        "bank_code": "MHSX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "RAJARSHI SHAHU SAHAKARI BANK LTD",
+        "bank_code": "RSSX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "UTKARSH SMALL FINANCE BANK LTD",
+        "bank_code": "UTKS",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "ELLAQUAI DEHATI BANK",
+        "bank_code": "EDBX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "CHHATTISGARH GRAMIN BANK",
+        "bank_code": "CGBX",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankId": 18,
+        "bankName": "BANK OF INDIA",
+        "bank_code": "BKID",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "FINO PAYMENTS BANK LTD",
+        "bank_code": "FINO",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "JIO PAYMENTS BANK LTD",
+        "bank_code": "JIOP",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          }
+        ]
+      },
+      {
+        "bankName": "JANA SMALL FINANCE BANK LTD",
+        "bank_code": "JSFB",
+        "is_popular": false,
+        "verification_option": [
+          {
+            "option_id": "debit_card",
+            "option_name": "Debit Card",
+            "is_recommended": true
+          },
+          {
+            "option_id": "net_banking",
+            "option_name": "Net Banking",
+            "is_recommended": true
+          },
+          {
+            "option_id": "aadhaar",
+            "option_name": "Aadhaar",
+            "is_recommended": false
+          },
+          {
+            "option_id": "upi",
+            "option_name": "UPI",
+            "is_recommended": false
+          },
+          {
+            "bankName": "HDFC BANK LTD",
+            "bank_code": "HDFC",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "AXIS BANK",
+            "bank_code": "UTIB",
+            "is_popular": true,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              }
+            ]
+          },
+          {
+            "bankName": "BANK OF BARODA",
+            "bank_code": "BARB",
+            "is_popular": true,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "Aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE JAMMU AND KASHMIR BANK LTD",
+            "bank_code": "JAKA",
+            "is_popular": true,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "INDIAN OVERSEAS BANK",
+            "bank_code": "IOBA",
+            "is_popular": true,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "id": 56,
+            "bankName": "CITY UNION BANK LTD",
+            "bank_code": "CIUB",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD",
+            "bank_code": "HSBC",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE COSMOS CO-OPERATIVE BANK LTD",
+            "bank_code": "COSB",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE VARACHHA CO OP BANK LTD",
+            "bank_code": "VARA",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "BANDHAN BANK LTD",
+            "bank_code": "BDBL",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "KARUR VYSA BANK",
+            "bank_code": "KVBL",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "KARNATAKA VIKAS GRAMEENA BANK",
+            "bank_code": "KVGB",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "UCO BANK",
+            "bank_code": "UCBA",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "ESAF SMALL FINANCE BANK LTD",
+            "bank_code": "ESAF",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "FINCARE SMALL FINANCE BANK LTD",
+            "bank_code": "FINF",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE KALUPUR COMMERCIAL CO OP BANK",
+            "bank_code": "KCCB",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE CHEMBUR NAGARIK SAHAKARI BANK",
+            "bank_code": "CNSX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "SHIVALIK SMALL FINANCE BANK LTD",
+            "bank_code": "SHIX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "KURLA NAGARIK SAHAKARI BANK LTD",
+            "bank_code": "KNSB",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "CAPITAL SMALL FINANCE BANK LTD",
+            "bank_code": "CLBL",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE ADARSH CO OP URBAN BANK LTD",
+            "bank_code": "ACUX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE JUNAGADH COMMERCIAL CO OP BANK LTD",
+            "bank_code": "JUCX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE SURAT PEOPLES CO OP BANK LTD",
+            "bank_code": "SPCB",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE ZOROASTRIAN CO OP BANK LTD",
+            "bank_code": "ZCBL",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "THE NATIONAL CO OP BANK LTD",
+            "bank_code": "NCBL",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "MAHESH SAHAKARI BANK LTD PUNE",
+            "bank_code": "MHSX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "RAJARSHI SHAHU SAHAKARI BANK LTD",
+            "bank_code": "RSSX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "UTKARSH SMALL FINANCE BANK LTD",
+            "bank_code": "UTKS",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "ELLAQUAI DEHATI BANK",
+            "bank_code": "EDBX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "CHHATTISGARH GRAMIN BANK",
+            "bank_code": "CGBX",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "BANK OF INDIA",
+            "bank_code": "BKID",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "FINO PAYMENTS BANK LTD",
+            "bank_code": "FINO",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          },
+          {
+            "bankName": "JIO PAYMENTS BANK LTD",
+            "bank_code": "JIOP",
+            "is_popular": false,
+            "verification_option": [
+              {
+                "option_id": "debit_card",
+                "option_name": "Debit Card",
+                "is_recommended": true
+              },
+              {
+                "option_id": "net_banking",
+                "option_name": "Net Banking",
+                "is_recommended": true
+              },
+              {
+                "option_id": "aadhaar",
+                "option_name": "Aadhaar",
+                "is_recommended": false
+              },
+              {
+                "option_id": "upi",
+                "option_name": "UPI",
+                "is_recommended": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

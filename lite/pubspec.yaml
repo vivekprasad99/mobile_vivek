@@ -1,0 +1,45 @@
+name: lite
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # modules
+  core:
+    path: ../core
+  common:
+    path: ../common
+  auth:
+    path: ../features/auth
+
+  # others
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  oktoast: ^3.4.0
+  flutter_screenutil: ^5.9.0
+  go_router: ^13.0.1
+  flutter_bloc: ^8.1.3
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  # main app specific assets
+  assets:
+    - assets/images/

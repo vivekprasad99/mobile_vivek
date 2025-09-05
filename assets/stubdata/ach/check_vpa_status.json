@@ -1,0 +1,27 @@
+{
+  "code": "SUCCESS",
+  "message": "dsdsd",
+  "responseCode": "",
+  "data": {
+    "merchantid": "88XXXX",
+    "subbillerid": "66XXXX",
+    "cp_mdt_ref_no": "MAAT66TESTXXXXXXXXXXXXXXXXXXXXX",
+    "umn": "db1XXXXXXXXXXXXXXXXXXXX@XXX",
+    "trxnno": "35XXXX",
+    "amount": "1.00",
+    "status": "ACTIVE",
+    "statusdesc": "00-APPROVED OR COMPLETED ",
+    "pattern": "ASPRESENTED",
+    "accountno": "27701XXXXXXXX",
+    "ifsc": "HDFC0XXXXXX",
+    "schemes": "",
+    "payervpa": "7708XXXXXX@ybl",
+    "payername": "XXXXXXXXXXXXXXX",
+    "bankname": "XXXXXXXX",
+    "action": "Customer ACTIVE The Mandate Registration.",
+    "bank_error_code": "00",
+    "bank_error_desc": "APPROVED OR COMPLETED SUCCESSFULLY",
+    "bank_res_code": "00",
+    "bank_res_desc": "APPROVED OR COMPLETED SUCCESSFULLY"
+  }
+}

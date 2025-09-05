@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "total": 4,
+    "query_params": {
+      "status_type": "Bureaus"
+    }
+  },
+  "data": [
+    {
+      "id": 0,
+      "value": "CIBIL"
+    },
+    {
+      "id": 1,
+      "value": "Equifax"
+    },
+    {
+      "id": 2,
+      "value": "Experian"
+    },
+    {
+      "id": 3,
+      "value": "CRIF"
+    }
+  ]
+}

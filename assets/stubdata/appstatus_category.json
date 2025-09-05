@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "total": 5,
+        "query_params": {
+            "status_type": "Applications Status"
+        }
+    },
+    "data": [
+        {
+            "id": 0,
+            "value": "Initiated"
+        },
+        {
+            "id": 1,
+            "value": "Under Process"
+        },
+        {
+            "id": 2,
+            "value": "Sanction"
+        },
+        {
+            "id": 3,
+            "value": "Post Sanction"
+        },
+        {
+            "id": 4,
+            "value": "Completed"
+        }
+    ]
+}

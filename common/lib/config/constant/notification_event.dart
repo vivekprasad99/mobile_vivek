@@ -1,0 +1,1 @@
+const welcomeNotificationEvent = 'APIEvent-9cc7557d-f2b1-df37-5b7a-90de258eddaa';

@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "meta": {
+    "total": 2,
+    "query_params": {
+      "language": "en"
+    }
+  },
+  "message": "Request completed successfully",
+  "data": {
+    "banks": [
+      {
+        "bankName": "INDIAN BANK",
+        "bank_code": "IDIB",
+        "is_popular": true
+      },
+      {
+        "bankName": "UNION BANK OF INDIA",
+        "bank_code": "UBIN",
+        "is_popular": true
+      },
+      {
+        "bankName": "INDUSIND BANK",
+        "bank_code": "INDB",
+        "is_popular": true
+      },
+      {
+        "bankName": "SBM BANK INDIA LTD",
+        "bank_code": "STCB",
+        "is_popular": true
+      }
+    ]
+  }
+}

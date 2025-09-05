@@ -1,0 +1,1574 @@
+{
+  "product_banner": [
+    {
+      "image": "https://hblapis.cmots.com/complogodata/IImagesNew/MM_81551700988_365.png",
+      "banner_title": "Pre Approved Offer",
+      "link": "",
+      "banner_subtitle": "Congratulations! you are elegible\nfor an existing offer"
+    },
+    {
+      "image": "https://hblapis.cmots.com/complogodata/IImagesNew/MM_81551700988_365.png",
+      "banner_title": "Pre Approved Offer",
+      "link": "",
+      "banner_subtitle": "Congratulations! you are elegible\nfor an existing offer"
+    },
+    {
+      "image": "https://hblapis.cmots.com/complogodata/IImagesNew/MM_81551700988_365.png",
+      "banner_title": "Top-up offer",
+      "link": "top_up_offer",
+      "banner_subtitle": "Congratulations! you are elegible for a top-up on your vehicle loans"
+    }
+  ],
+  "product_feature": [
+    {
+      "product_title": "Loans",
+      "types": [
+        {
+          "type_name": "Home",
+          "product_sub_type": "home",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Accessible Home Loans",
+                  "Lending Approach",
+                  "Personalised APR",
+                  "Flexible Repayment Options",
+                  "Documentation Assistance"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "Calculating your EMI has never been easier. Use the Home Loan EMI Calculator here to view an instant summary of your EMI repayments. Unlock the door to your dream home faster!",
+                "link": "https://www.mahindrahomefinance.com/calculator/",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your top Home Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "What types of houses are financed by home loans?",
+                    "description": "Independent houses and flats/apartments of a permanent nature having a valid title are applicable. They need to have building approvals from civic authorities and also house properties which may be under construction or completed and ready to occupy."
+                  },
+                  {
+                    "title": "What is the security required for home loans?",
+                    "description": "The security required for a loan would be an equitable or simple registered mortgage of the house being financed. The type of mortgage to be created will depend on the documents of title (ownership) being submitted/made available. After a preliminary examination of the papers submitted by an applicant, our legal officers will advise the type of mortgage that would be required."
+                  },
+                  {
+                    "title": "What are the 'rate of interest' options for home loans?",
+                    "description": "Fixed for all customers other than salaried semi-urban class customers: The rates will be fixed during the tenure of the loan and applicable as prevalent on the date of 1st disbursement, subject to revision every 3 years depending on the money market conditions.Variable for salaried semi-urban and urban class customers: The rates will fluctuate as per the money market conditions and will be notified from time to time."
+                  },
+                  {
+                    "title": "How do I repay a home loan?",
+                    "description": "Based on your repayment capacity, the loan can be repaid in monthly, quarterly or half-yearly equated instalments by way of EMI/EQI/EHI comprising of principal and interest.Repayment of the loan can be made by cash/cheque/demand draft at any of MRHFLs offices. Repayment can also be made at collection centres approved by MRHFL."
+                  },
+                  {
+                    "title": "Can I prepay the home loan ahead of schedule?",
+                    "description": "The loan can be paid ahead of schedule and MRHFL will not levy early redemption charges."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Home Loan",
+                "description": "Our Home Loan application process is easy and gives you a quick turnaround. Once you have matched the eligibility criteria on our online portal, follow the four steps mentioned below and easily secure your home loan. Interest in the home loan can be logged online or at your nearest branch. Follow the steps below to register your interest online.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Fill in your contact details",
+                    "description": "Start by simply submitting your Name and Number on the form.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Get a Call Back",
+                    "description": "A Mahindra Finance executive will contact you for additional details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Document Verification & Approval",
+                    "description": "We request supporting documents for eligibility check and verification.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Successful Disbursal ",
+                    "description": "Once verified and approved, your loan funds are sanctioned immediately.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Home Loan Eligibility & Documents",
+                "description": "To be eligible for the loan, your future or existing home must be located within our serviceable area. MRHFL considers various factors such as applicant/co-applicant income, age, employment stability, savings, family background, assets and liabilities, and more.",
+                "documents": [
+                  {
+                    "title": "KYC Documents",
+                    "description": "Aadhaar/PAN card, passport, driving license, voter’s ID.",
+                    "image": ""
+                  },
+                  {
+                    "title": "Property Documents",
+                    "description": "Agreement of sale, ownership deed, house tax receipt, Power of attorney.",
+                    "image": ""
+                  },
+                  {
+                    "title": "Application form",
+                    "description": "Photocopies of all documents and 2 recent passport-sized photographs.",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Personal",
+          "product_sub_type": "personal",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Existing Customers",
+                  "Employees"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "Calculating your EMI has never been easier. Use our Personal Loan EMI Calculator to input your desired amount, interest rate and tenure, and view an instant summary of your EMI repayments. You can also simply adjust the amount and tenure to see how it affects your EMI repayments. Make faster decisions with our Personal Loan EMI Calculator",
+                "link": "https://www.mahindrahomefinance.com/calculator/",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your Personal Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Personal Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Personal Loan Eligibility & Documents",
+                "description": "Mahindra Finance personal loans are available to existing customers with good repayment history and Mahindra Group employees, aged 21-58 that are not in probation/are active in system.",
+                "documents": [
+                  {
+                    "title": "Details needed for matured base",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Address Proof",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Other Documents",
+                    "description": "",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "New Car",
+          "product_sub_type": "new_car",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Wide Variety of Vehicles",
+                  "Attractive Interest Rates",
+                  "Multiple Repayment Options",
+                  "Minimal Documentation",
+                  "Quick Disbursal"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "Calculating your EMI has never been easier. Use our Personal Loan EMI Calculator to input your desired amount, interest rate and tenure, and view an instant summary of your EMI repayments. You can also simply adjust the amount and tenure to see how it affects your EMI repayments. Make faster decisions with our Personal Loan EMI Calculator",
+                "link": "https://www.mahindrahomefinance.com/calculator/",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your Personal Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Car Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Car Loan Eligibility & Documents",
+                "description": "Mahindra Finance personal loans are available to existing customers with good repayment history and Mahindra Group employees, aged 21-58 that are not in probation/are active in system.",
+                "documents": [
+                  {
+                    "title": "KYC Documents - Passport/ PAN/ Aadhar (Eligibility Age Criteria is 21 years)",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Proof of Income - Salary Slips, Form 16, IT Returns, Bank Statements",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Identity and Proof of Address",
+                    "description": "",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Tractor",
+          "product_sub_type": "tractor",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Easy to Manage Loans",
+                  "Quick Disbursal",
+                  "Best in Class",
+                  "Minimal Documentation",
+                  "No Mortgage Required",
+                  "Transparent Process"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your top Tractor Loan FAQs",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Personal Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Tractor Loan Eligibility & Documents",
+                "description": "",
+                "documents": [
+                  {
+                    "title": "KYC Documents",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Proof of Income",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Agricultural Land Ownership Document",
+                    "description": "",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Utility Vehicle",
+          "product_sub_type": "utility_vehicle",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Easy to Manage Loans",
+                  "Quick Disbursal",
+                  "Attractive Interest Rates",
+                  "Multi Repayment Options",
+                  "Minimal Documentation",
+                  "No Mortgage Required",
+                  "Transparent Process"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your top Tractor Loan FAQs",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Utility Vehicle Loan",
+                "description": "Our Utility Vehicle Loan application process is easy and gives you a quick turnaround. The loan application can be made both online and offline which means you can either visit the nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Utility Vehicle Loan Eligibility & Documents",
+                "description": "",
+                "documents": [
+                  {
+                    "title": "KYC Documents (Aadhar card mandatory)",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Proof of Income and Address",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "2 Colour Passport Sized Photographs",
+                    "description": "",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Commercial Vehicle",
+          "product_sub_type": "commercial_vehicle",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Versatile Loan Options",
+                  "Tenure Flexibility",
+                  "Affordable Repayment Options",
+                  "Special Promotions",
+                  "Fast Processing"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your top Tractor Loan FAQs",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Commercial Vehicle Loan and Construction Equipment Loan",
+                "description": "The Loan application process is easy and gives you a quick turnaround. The loan application can be made both online and offline which means you can either visit the nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Commercial Vehicle Loan Eligibility & Documents",
+                "description": "We provide financing for new Commercial Vehicles and Construction Equipment to individuals, partnership firms, and public/private limited companies. For used Commercial Vehicles and Construction Equipment, we offer funding to individuals and partnership firms, including first-time users and transporters.",
+                "documents": [
+                  {
+                    "title": "KYC Documents (Aadhar card mandatory)",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Proof of Income and Address",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Bank Statements and additional documents may be required based on the Borrower’s profile",
+                    "description": "",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Used Car",
+          "product_sub_type": "used_car",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Wide Variety of Vehicles",
+                  "Affordable Interest Rates",
+                  "Flexible Tenures",
+                  "Easy Documentation Process",
+                  "Speedy Disbursement"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your top Tractor Loan FAQs",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Pre-Owned Car Loan",
+                "description": "TOur Pre-Owned Car Loan application process is easy with a quick turnaround. You can register your interest online, talk to a Mahindra Finance representative at your local vehicle dealership or go to your nearby Mahindra Finance Branch. Our quick 4-step online process is described below.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Pre-Owned Car Loan Eligibility & Documents",
+                "description": "Subject to individual appraisals, salaried individuals, self-employed and partnership firms can apply. Basic criteria include Indian residency and age between 21-60 years with income requirements based on vehicle model, age, and repayment tenure.",
+                "documents": [
+                  {
+                    "title": "Application Form with a recent colour photograph",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "KYC Documents",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Proof of Address, Identity and Income",
+                    "description": "",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Three-Wheeler",
+          "product_sub_type": "three_wheeler",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "About this loan",
+                "features_title": [
+                  "Wide Variety of Vehicles",
+                  "Attractive Interest Rates",
+                  "Flexible Repayment Options",
+                  "Easy Process",
+                  "Quick Disbursal"
+                ]
+              }
+            },
+            {
+              "tab_title": "EMI Calculator",
+              "tab_details": {
+                "title": "EMI Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your top Tractor Loan FAQs",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Three-Wheeler Loan",
+                "description": "TOur Pre-Owned Car Loan application process is easy with a quick turnaround. You can register your interest online, talk to a Mahindra Finance representative at your local vehicle dealership or go to your nearby Mahindra Finance Branch. Our quick 4-step online process is described below.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Three-Wheeler Loan Eligibility & Documents",
+                "description": "",
+                "documents": [
+                  {
+                    "title": "KYC Documents - Eligibility age criteria is between 21 to 58 years. Aadhar card is mandatory along with proof of current address",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Two passport-sized photographs",
+                    "description": "",
+                    "image": ""
+                  },
+                  {
+                    "title": "Two security cheques",
+                    "description": "",
+                    "image": ""
+                  }
+                ],
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Balance Transfer",
+          "product_sub_type": "balance_transfer",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "product_title": "Investment",
+      "types": [
+        {
+          "type_name": "Fixed Deposit",
+          "product_sub_type": "fixed_deposit",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "Fixed Deposit Features and Benefits",
+                "features_title": [
+                  "Assured Returns",
+                  "High Interest Rates"
+                ]
+              }
+            },
+            {
+              "tab_title": "FD Calculator",
+              "tab_details": {
+                "title": "Fixed Deposit (FD) Calculator",
+                "description": "Use the slider in the fixed deposit (fd) calculator below to set your investment amount, tenure, and interest payout term to understand your fixed deposit maturity value.",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your Personal Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Personal Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Fixed Deposit Documents & Eligibility Criteria",
+                "description": "Click on the cards below that match your profile and view the relevant documents and eligibility criteria required to start your FD with Mahindra Finance.",
+                "matured_base_details": {
+                  "title": "Details needed for matured base",
+                  "description": "",
+                  "image": ""
+                },
+                "address_proof": {
+                  "title": "Address Proof",
+                  "description": "",
+                  "image": ""
+                },
+                "other_documents": {
+                  "title": "Other Documents",
+                  "description": "",
+                  "image": ""
+                },
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Mutual Funds",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "tab_details": {
+                "title": "Mutual Funds Features and Benefits",
+                "features_title": [
+                  "Assured Returns",
+                  "High Interest Rates"
+                ]
+              }
+            },
+            {
+              "tab_title": "MF Calculator",
+              "tab_details": {
+                "title": "Mutual Funds (MF) Calculator",
+                "description": "Use the slider in the Mutual Funds (MF) calculator below to set your investment amount, tenure, and interest payout term to understand your fixed deposit maturity value.",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "tab_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your Personal Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "tab_details": {
+                "title": "How to Apply for a Personal Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "tab_details": {
+                "title": "Fixed Deposit Documents & Eligibility Criteria",
+                "description": "Click on the cards below that match your profile and view the relevant documents and eligibility criteria required to start your FD with Mahindra Finance.",
+                "matured_base_details": {
+                  "title": "Details needed for matured base",
+                  "description": "",
+                  "image": ""
+                },
+                "address_proof": {
+                  "title": "Address Proof",
+                  "description": "",
+                  "image": ""
+                },
+                "other_documents": {
+                  "title": "Other Documents",
+                  "description": "",
+                  "image": ""
+                },
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "product_title": "Insurance",
+      "product_sub_type": "insurance",
+      "types": [
+        {
+          "type_name": "Motor",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "features_and_benefits_details": {
+                "title": "Fixed Deposit Features and Benefits",
+                "assured_returnss": {
+                  "title": "Assured Returns",
+                  "description": "",
+                  "image": ""
+                },
+                "high_interest_rates": {
+                  "title": "High Interest Rates",
+                  "description": "",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "tab_title": "FD Calculator",
+              "fd_calculator_details": {
+                "title": "Fixed Deposit Investment Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "faqs_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your Personal Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "apply_details": {
+                "title": "How to Apply for a Personal Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "eligibility_documents_details": {
+                "title": "Personal Loan Eligibility & Documents",
+                "description": "Mahindra Finance personal loans are available to existing customers with good repayment history and Mahindra Group employees, aged 21-58 that are not in probation/are active in system.",
+                "matured_base_details": {
+                  "title": "Details needed for matured base",
+                  "description": "",
+                  "image": ""
+                },
+                "address_proof": {
+                  "title": "Address Proof",
+                  "description": "",
+                  "image": ""
+                },
+                "other_documents": {
+                  "title": "Other Documents",
+                  "description": "",
+                  "image": ""
+                },
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Health",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "features_and_benefits_details": {
+                "title": "Fixed Deposit Features and Benefits",
+                "assured_returnss": {
+                  "title": "Assured Returns",
+                  "description": "",
+                  "image": ""
+                },
+                "high_interest_rates": {
+                  "title": "High Interest Rates",
+                  "description": "",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "tab_title": "FD Calculator",
+              "fd_calculator_details": {
+                "title": "Fixed Deposit Investment Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "faqs_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your Personal Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "apply_details": {
+                "title": "How to Apply for a Personal Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "eligibility_documents_details": {
+                "title": "Personal Loan Eligibility & Documents",
+                "description": "Mahindra Finance personal loans are available to existing customers with good repayment history and Mahindra Group employees, aged 21-58 that are not in probation/are active in system.",
+                "matured_base_details": {
+                  "title": "Details needed for matured base",
+                  "description": "",
+                  "image": ""
+                },
+                "address_proof": {
+                  "title": "Address Proof",
+                  "description": "",
+                  "image": ""
+                },
+                "other_documents": {
+                  "title": "Other Documents",
+                  "description": "",
+                  "image": ""
+                },
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        },
+        {
+          "type_name": "Life",
+          "loan_image": "https://uxwing.com/wp-content/themes/uxwing/download/transportation-automotive/car-vehicle-insurance-icon.png",
+          "loan_tabs": [
+            {
+              "tab_title": "Features and Benefits",
+              "features_and_benefits_details": {
+                "title": "Fixed Deposit Features and Benefits",
+                "assured_returnss": {
+                  "title": "Assured Returns",
+                  "description": "",
+                  "image": ""
+                },
+                "high_interest_rates": {
+                  "title": "High Interest Rates",
+                  "description": "",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "tab_title": "FD Calculator",
+              "fd_calculator_details": {
+                "title": "Fixed Deposit Investment Calculator",
+                "description": "",
+                "emi_details": {
+                  "minLoanAmount": "₹ 1L",
+                  "maxLoanAmount": "₹ 25L",
+                  "minRateOfInterest": "6%",
+                  "maxRateOfInterest": "26%",
+                  "minTenure": 12,
+                  "maxTenure": 60
+                }
+              }
+            },
+            {
+              "tab_title": "FAQs",
+              "faqs_details": {
+                "title": "Frequently Asked Questions (FAQs)",
+                "description": "Get all the answers to your Personal Loans FAQs with Mahindra Finance",
+                "faqs": [
+                  {
+                    "title": "How long will it take for me to receive my personal loan?",
+                    "description": "Few hours for our digital loans for customers, and within a day for our employees."
+                  },
+                  {
+                    "title": "Do I need a bank account in order to receive my personal loan?",
+                    "description": "Yes."
+                  },
+                  {
+                    "title": "Where can I get a personal loan from?",
+                    "description": "You can get your pre-approved personal loan from here for our mature customers. Our current customers can reach out to the nearest branch or click here"
+                  },
+                  {
+                    "title": "What is the minimum and maximum amount that can be issued as a personal loan?",
+                    "description": "The loan amount will be based on the eligibility of the applicant."
+                  },
+                  {
+                    "title": "What is the maximum loan repayment period possible?",
+                    "description": "36 months for our mature customers, and 18 months for the current customers."
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "How to Apply",
+              "apply_details": {
+                "title": "How to Apply for a Personal Loan",
+                "description": "Our Personal Loan application process is easy and gives you an instant turnaround. The loan application can be made both online and offline which means you can either visit your nearest branch or opt for our quick 4-step online process.",
+                "apply_steps": [
+                  {
+                    "title": "Step 1: Loan Customization",
+                    "description": "Plan your loan - Choose the loan amount and tenure requirement.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Fill-in-your-contact-details.jpg"
+                  },
+                  {
+                    "title": "Step 2: Complete your KYC",
+                    "description": "Complete and verify your KYC and personal details.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Get-a-Call-Back.jpg"
+                  },
+                  {
+                    "title": "Step 3: Set your mandate",
+                    "description": "Set up the auto-debit mandate via debit card or net-banking",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Document-Verification-Approval.jpg"
+                  },
+                  {
+                    "title": "Step 4: Sign the agreement",
+                    "description": "e-Sign the agreement and the money shall be disbursed in your bank account.",
+                    "image": "https://www.mahindrafinance.com/wp-content/uploads/2023/06/Successful-Disbursal.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "tab_title": "Eligibility & Documents",
+              "eligibility_documents_details": {
+                "title": "Personal Loan Eligibility & Documents",
+                "description": "Mahindra Finance personal loans are available to existing customers with good repayment history and Mahindra Group employees, aged 21-58 that are not in probation/are active in system.",
+                "matured_base_details": {
+                  "title": "Details needed for matured base",
+                  "description": "",
+                  "image": ""
+                },
+                "address_proof": {
+                  "title": "Address Proof",
+                  "description": "",
+                  "image": ""
+                },
+                "other_documents": {
+                  "title": "Other Documents",
+                  "description": "",
+                  "image": ""
+                },
+                "disclaimer": "MMFSL reserves the right to approve/disapprove the loan after the submission of documents."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

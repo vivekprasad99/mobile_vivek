@@ -1,0 +1,66 @@
+{
+  "code": "SUCCESS",
+  "message": "SUCCESS",
+  "paymentHistory": [
+    {
+      "date": "2023-09-23 00:00:00",
+      "receiptNumber": 6648109904,
+      "instalmentAmount": 700.0,
+      "modeofPayment": "CASH"
+    },
+    {
+      "date": "2023-09-23 00:00:00",
+      "receiptNumber": 6648109904,
+      "instalmentAmount": 1000.0,
+      "modeofPayment": "CASH"
+    },
+    {
+      "date": "2023-09-23 00:00:00",
+      "receiptNumber": 6648109904,
+      "instalmentAmount": 18300.0,
+      "modeofPayment": "CASH"
+    },
+    {
+      "date": "2023-08-24 00:00:00",
+      "receiptNumber": 1004108403,
+      "instalmentAmount": 24798.0,
+      "modeofPayment": "BANK TRANSFER"
+    },
+    {
+      "date": "2023-07-19 00:00:00",
+      "receiptNumber": 1003567282,
+      "instalmentAmount": 24798.0,
+      "modeofPayment": "BANK TRANSFER"
+    },
+    {
+      "date": "2023-06-19 00:00:00",
+      "receiptNumber": 1003095414,
+      "instalmentAmount": 15310.0,
+      "modeofPayment": "BANK TRANSFER"
+    },
+    {
+      "date": "2023-05-17 00:00:00",
+      "receiptNumber": 1002605086,
+      "instalmentAmount": 15310.0,
+      "modeofPayment": "BANK TRANSFER"
+    },
+    {
+      "date": "2023-04-20 00:00:00",
+      "receiptNumber": 1002208570,
+      "instalmentAmount": 15310.0,
+      "modeofPayment": "BANK TRANSFER"
+    },
+    {
+      "date": "2023-03-18 00:00:00",
+      "receiptNumber": 2004780033,
+      "instalmentAmount": 15310.0,
+      "modeofPayment": "BANK TRANSFER"
+    },
+    {
+      "date": "2023-02-16 00:00:00",
+      "receiptNumber": 1001672264,
+      "instalmentAmount": 15310.0,
+      "modeofPayment": "BANK TRANSFER"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "Success",
+  "message": "Request completed successfully",
+  "data": [
+    {
+      "id": "1",
+      "name": "Wish to sell off my vehicle"
+    },
+    {
+      "id": "2",
+      "name": "Sufficient fund available with me"
+    },
+    {
+      "id": "3",
+      "name": "Taking a new Loan from Mahindra Finance"
+    },
+    {
+      "id": "4",
+      "name": "Recieved better offer from another financier"
+    } 
+  ]
+}

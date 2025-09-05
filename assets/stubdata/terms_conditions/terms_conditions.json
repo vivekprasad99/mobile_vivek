@@ -1,0 +1,12 @@
+{
+    "status":"Success", 
+    "message":"transaction completed successfully",
+    "meta": {
+      "total": 1,
+      "query_params": {
+        "language": "en",
+        "category": "terms-conditions"
+      }
+     },
+    "data": "<p>A Terms and Conditions is a statement or a legal document that states how a company or website <strong>collects</strong>, <strong>handles</strong> and <strong>processes data</strong> of its customers and visitors. It explicitly describes whether that information is kept confidential, or is shared with or sold to third parties.</p>"
+}

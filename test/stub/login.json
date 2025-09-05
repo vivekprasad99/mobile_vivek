@@ -1,0 +1,7 @@
+{
+    "status": "success",
+    "data": {
+        "message": "this user has been successfully logged in",
+        "token": "yxtfs34lwqasd"
+    }
+}

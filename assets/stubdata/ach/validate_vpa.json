@@ -1,0 +1,15 @@
+{
+  "code": "SUCCESS",
+  "message": "VPA is available for transaction",
+  "data": {
+    "status": "SUCCESS",
+    "statusDesc": "VPA is available for transaction",
+    "vpa": "shaiktaj123-1@okicici",
+    "payer_name": "SHALINI DNYANES",
+    "ifsc": "HDFC0002497",
+    "account_type": "SAVINGS",
+    "is_vpa_valid": "Y",
+    "is_autopay_eligible": "Y",
+    "errCode": "1111"
+  }
+}

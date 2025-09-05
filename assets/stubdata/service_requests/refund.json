@@ -1,0 +1,21 @@
+{
+    "status": "SUCCESS",
+    "meta": {
+        "total": 2
+    },
+    "message": "Request completed successfully",
+    "data": [
+        {            
+            "tid": "1",
+            "type":"Refund",
+            "query": "Refund not received",
+            "sub_query": [
+                {
+                    "tid": "1",
+                    "case_type": "31",
+                    "name": "Refund not received"    
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "status": "Success",
+  "message": "Request completed successfully",
+  "data": {
+    "loanNumber": "8682345",
+    "productCategory": "Personal Loan",
+    "foreclosureAmount": "",
+    "outstandingAmount": "",
+    "currentOverDueAmount": "8,600.15",
+    "previousOverDueAmount": "2050.45",
+    "interveningInterestAmount": "",
+    "totalCharges": "150",
+    "charges": [
+      {
+        "name": "return charges",
+        "amount": "50",
+        "description": "return charges dummy text"
+      },
+      {
+        "name": "legal charges",
+        "amount": "50",
+        "description": "legal charges dummy text"
+      },
+      {
+        "name": "other charges",
+        "amount": "50",
+        "description": "other charges dummy text"
+      }
+    ],
+    "totalBreakupAmount": "10,800.6"
+  }
+}

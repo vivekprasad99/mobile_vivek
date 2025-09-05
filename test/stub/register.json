@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "data": {
+        "message": "this user has been successfully registered",
+        "user": {
+            "id": "1",
+            "phone": "7678139352"
+        }
+    }
+}

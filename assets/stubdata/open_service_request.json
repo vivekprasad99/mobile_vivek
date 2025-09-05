@@ -1,0 +1,13 @@
+{
+    "status": "Success",
+    "message": "Request completed successfully",
+    "data":
+        {
+            "serviceRequestNumber": "233422",
+            "updatedDate": "10 Aug 24",
+            "createdDate": "10 Aug 24",
+            "product": "Loan",
+            "subProduct": "Personal Loan"
+        }
+
+}

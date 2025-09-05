@@ -1,0 +1,6 @@
+{
+    "status": "failure",
+    "data": {
+        "message": "this user is unable to login"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "code": "SUCCESS",
+  "message": "SUCCESS",
+  "responseCode": "",
+  "data": [
+    {
+      "batchNo": null,
+      "startDate": "2024-04-08",
+      "expiryDate": "2045-09-30",
+      "accHolderName": "Rohit b Patil",
+      "bankName": "STATE BANK OF INDIA",
+      "bankBranch": null,
+      "bankAccountNo": "123456789",
+      "umrnNo": "HO1234567",
+      "mandateId": "1938",
+      "bankCode": "108",
+      "frequency": "Monthly",
+      "cif": "1671",
+      "loanNumber": "HO00PL00014777",
+      "mandate_status": "ACTIVE",
+      "installmant_amount": "3020400.0"
+    }
+  ]
+}

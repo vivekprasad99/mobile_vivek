@@ -1,0 +1,26 @@
+{
+    "code": "SUCCESS",
+    "message": "Success",
+    "data": [
+      {
+        "id": 1,
+        "financer_name": "Mahindra & Mahindra Financial Services Limited"
+      },
+      {
+        "id": 2,
+        "financer_name": "M&M Financial Services Limited "
+      },
+      {
+        "id": 3,
+        "financer_name": "M&M Fin Ser. Ltd"
+      },
+      {
+        "id": 4,
+        "financer_name": "MAHINDRA Finance"
+      },
+      {
+        "id": 5,
+        "financer_name": "M&M Financial Services Ltd"
+      }
+    ]
+  }

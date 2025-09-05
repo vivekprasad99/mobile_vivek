@@ -1,0 +1,45 @@
+{
+  "code": "SUCCESS",
+  "meta": {
+    "total": 5,
+    "query_params": {
+      "language": "en",
+      "category": "Cancel Mandate Reason"
+    }
+  },
+  "message": "Request completed successfully",
+  "data": [
+    {
+      "cancel_reason_title": "Advance / Excess payment done",
+      "cancel_reason_desc": "You may hold your mandate temporarily without cancelling. Do you want to cancel anyway?",
+      "can_cancel": true,
+      "can_hold": true,
+      "can_update": false
+    },
+    {
+      "cancel_reason_title": "Loan account closed / Forcelosed",
+      "cancel_reason_desc": "Mandate will not be presented for closed loans. Do you still want to proceed?",
+      "can_cancel": true,
+      "can_hold": false,
+      "can_update": true
+    },
+    {
+      "cancel_reason_title": "Bank account changed / Inactive",
+      "cancel_reason_desc": "Your previous mandate will get auto-cancelled on registering a new mandate.",
+      "can_cancel": true,
+      "can_hold": false,
+      "can_update": true
+    },
+    {
+      "cancel_reason_title": "New payment mode",
+      "cancel_reason_desc": "Your previous mandate will get auto-cancelled on registering a new mandate.",
+      "can_cancel": true,
+      "can_hold": false,
+      "can_update": false
+    },
+    {
+      "cancel_reason_title": "Other issues",
+      "cancel_reason_desc": null
+    }
+  ]
+}

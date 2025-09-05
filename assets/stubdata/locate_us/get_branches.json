@@ -1,0 +1,35 @@
+{
+    "code": "SUCCESS",
+    "message": "Bookmark fetched successfully",
+    "responseCode": "BK1001",
+    "branchList": [
+        {
+            "code": "HAR",
+            "name": "HARDWAR",
+            "address": "HARDWAR, First Floor,Sri Sai Complex,Ranipur Morth,Chandra Charya Chowk, Station Road, HARDWAR  MB , 249403",
+            "lat": 0.0,
+            "lon": 0.0,
+            "location": "Hardwar UTTARANCHAL                                       ",
+            "mobileNo": "01334-265853",
+            "distance": 0.0
+        },
+        {
+            "code": "VAK",
+            "name": "VATAKARA-KERALA",
+            "address": "VATAKARA-KERALA, 2Nd Floor, Park Complex, , PARK ROAD,  Near New Bus Stand, VADAKARA   M , 673101",
+            "lat": 0.0,
+            "lon": 0.0,
+            "location": "Kozhikode KERALA                                            ",
+            "mobileNo": "9961103808",
+            "distance": 0.0
+        }
+    ],
+    "dealerList": [
+        {
+            "name": "SARDAR AUTOMOBILES",
+            "code": "1571",
+            "address": "COURT ROAD, COURT ROAD, BIJNOUR, 246701",
+            "mobileNo": "9837265076"
+        }
+    ]
+}

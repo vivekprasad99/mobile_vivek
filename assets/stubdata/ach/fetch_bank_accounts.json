@@ -1,0 +1,14 @@
+{
+  "code": "SUCCESS",
+  "message": "SUCCESS",
+  "data": [
+    {
+      "bankId": "0",
+      "bankName": "HDFC BANK",
+      "accountNumber": "50100526233627",
+      "ifscCode": "",
+      "bankCode": "HDFC",
+      "accountType": ""
+    }
+  ]
+}

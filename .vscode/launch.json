@@ -1,0 +1,76 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dev",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/build_variants/main_dev.dart"
+        },
+        {
+            "name": "dev-release",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/build_variants/main_dev.dart",
+            "args": [
+                "--release",
+            ]
+        },
+        {
+            "name": "lite-dev",
+            "request": "launch",
+            "type": "dart",
+            "program": "lite/lib/build_variants/main_dev.dart",
+        },
+        {
+            "name": "sit",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/build_variants/main_sit.dart",
+        },
+        {
+            "name": "uat",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/build_variants/main_uat.dart"
+        },
+        {
+            "name": "prod",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "mmfsl (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mmfsl (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "core",
+            "cwd": "core",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "core (profile mode)",
+            "cwd": "core",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "core (release mode)",
+            "cwd": "core",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

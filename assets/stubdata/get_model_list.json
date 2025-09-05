@@ -1,0 +1,18 @@
+{
+  "code": "SUCCESS",
+  "message": "Unable to verify PAN. Please enter relationship/ loan account number in addition to PAN",
+  "data": [
+    {
+      "model": "Creta",
+      "modelCode": "01"
+    },
+    {
+      "model": "Exter",
+      "modelCode": "02"
+    },
+    {
+      "model": "Verna",
+      "modelCode": "03"
+    }
+  ]
+}

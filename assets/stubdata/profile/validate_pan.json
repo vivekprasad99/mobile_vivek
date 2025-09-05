@@ -1,0 +1,10 @@
+{
+    "code": "SUCCESS",
+    "message": "Sorry ! We are unable to authenticate your PAN. Please visit nearby branch to update your PAN  in Mahindra Finance records",
+    "panStatusDesc": "VALID",
+    "responseCode": "PAN1001",
+    "panStatus": "E",
+    "dobStatus": "Y",
+    "nameStatus": "N",
+    "pan": "AQJPJ2071R"
+}

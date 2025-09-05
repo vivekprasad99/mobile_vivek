@@ -1,0 +1,130 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "basicDetailsResponse": {
+      "financedAmount": "₹565459",
+      "loanId": "1152705",
+      "loanNumber": "1152705",
+      "vehicleRegistrationNumber": "TN66AC7238",
+      "totalOutstandingAmount": "₹0.0",
+      "startDate": "NA",
+      "endDate": "NA",
+      "status": "Active",
+      "numberOfPaidInstallments": "11",
+      "instalmentAmount": "₹8500.0",
+      "nextDueDate": "2022-01-01 12:00:00 AM",
+      "frequency": "Monthly",
+      "interestRate": "7.0",
+      "totalAmountOverdue": "₹98372121",
+      "rePaymentMode": "Mandate",
+      "chargesOverdue": "₹565459",
+      "mobileNumber": 9096099067,
+      "sourceSystem": "Autofin",
+      "UCIC": 60000505414
+    },
+    "paymentHistory": {
+      "paymentInvoiceDownloadlink": "hakim",
+      "paymentData": [
+        {
+          "paymentHistoryTitle": "Loan repayment",
+          "paymentDate": "17 Apr 2024",
+          "paymentAmount": "-₹5574"
+        },
+        {
+          "paymentHistoryTitle": "Loan repayment",
+          "paymentDate": "17 Apr 2024",
+          "paymentAmount": "-₹5574"
+        },
+        {
+          "paymentHistoryTitle": "Loan repayment",
+          "paymentDate": "17 Apr 2024",
+          "paymentAmount": "-₹5574"
+        },
+        {
+          "paymentHistoryTitle": "Loan repayment",
+          "paymentDate": "17 Apr 2024",
+          "paymentAmount": "-₹5574"
+        },
+        {
+          "paymentHistoryTitle": "Loan repayment",
+          "paymentDate": "17 Apr 2024",
+          "paymentAmount": "-₹5574"
+        },
+        {
+          "paymentHistoryTitle": "Loan repayment",
+          "paymentDate": "17 Apr 2024",
+          "paymentAmount": "-₹5574"
+        }
+      ]
+    },
+    "Documents": [
+      {
+        "title": "Statement of account",
+        "donaloadLink": "17 Apr 2024"
+      },
+      {
+        "title": "Repayment schedule",
+        "donaloadLink": "17 Apr 2024"
+      },
+      {
+        "title": "KFS + agreement",
+        "donaloadLink": "17 Apr 2024"
+      },
+      {
+        "title": "Principal Breakup",
+        "donaloadLink": "17 Apr 2024"
+      }
+    ],
+    "basicChargeDetails": {
+      "otherCharges": "0",
+      "chequeReturnCharges": "0",
+      "additionalInterestCharges": "0",
+      "repossessionCharges": "0"
+    },
+    "basicAssetDetails": {
+      "vehicleRegistrationNumber": "MH09CS2038",
+      "vehicleName": "MahindraXUV",
+      "engineNumber": "123WEV123H23",
+      "chasisNumber": "123WEV123H2C"
+    },
+    "basicCustomerDetails": {
+      "coApplicantName": "Abhishek Neelakandan",
+      "guarantorName": "Vaishali Singh Lal",
+      "branch": "ASI ENT-THANE-MMFSL",
+      "executiveName": "Neha Garg",
+      "executiveNumber": "1234253"
+    },
+    "bankDetails": {
+      "mandateStatus": "Active",
+      "bankHolderNam": null,
+      "bankName": "ICICI Bank",
+      "bankAccountNumber": "9870765437",
+      "branchName": "Worli",
+      "umrnNumber": "09009900",
+      "frequency": "Monthly"
+    },
+    "basicMandateDetails": [
+      {
+        "effectiveFrom": "11/03/2024"
+      }
+    ],
+    "insuranceDetails": {
+      "policyNumber": "89009988",
+      "policyType": "Vehicle",
+      "periodOfInsurance": "09 Jun 23- 09 Jun 24",
+      "insuranceDate": "09 Jun 23",
+      "invoiceNumber": "123598",
+      "amountInsuredFor": "₹5,00,000",
+      "totalPremium": "₹10,000"
+    },
+    "remindersDetails": {
+      "loanId": "",
+      "loanNumber": "",
+      "sourceSystem": "finone",
+      "next_due_date": "2024-04-28 12:00:00 AM",
+      "status": "SUCCESS",
+      "reminder": [
+      ]
+    }
+  }
+}

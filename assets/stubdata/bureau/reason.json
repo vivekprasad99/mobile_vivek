@@ -1,0 +1,23 @@
+{
+  "status": "SUCCESS",
+  "meta": {
+    "total": 2,
+    "query_params": {
+      "language": "en",
+      "category": "Reasons"
+    }
+  },
+  "message": "Request completed successfully",
+  "data": [
+    {
+      "id": "1",
+      "name": "Wish to sell off my vehicle",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Sufficient fund available with me",
+      "image": ""
+    }
+  ]
+}

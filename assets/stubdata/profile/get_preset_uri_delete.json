@@ -1,0 +1,6 @@
+{
+  "code": "SUCCESS",
+  "message": "Presigned URI is generated successfully",
+  "presetURL": "https://mandate-doc.s3.ap-south-1.amazonaws.com/dummy.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240426T074017Z&X-Amz-SignedHeaders=host&X-Amz-Expires=35999&X-Amz-Credential=AKIAZQ3DPG74TI6IP6PX%2F20240426%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=cafbfab0d55bf8bb1bb3dd9b2f5a9c50be62964c355340c4aff07a7ac9c65a02",
+  "filename": "dummy.pdf"
+ } 
